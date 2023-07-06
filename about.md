@@ -3,6 +3,10 @@ layout: page
 title: About
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+**Gobs and Gods** is a tactical RPG where you freely [explore a fantastic world](/2023/07/01/exploring-the-world/) full of magic and wonders.
+The bad news: its nicest inhabitants are ... Goblins. 
+The good news: they believe you are their God.
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+Hire a team of almost-good-for-nothing goblins to fight for you in [tactical turn based combats](/07/03/fast-tactical-turn-combats/), grow your godly powers, ... and find your way out of this crazy world!
+
+Coming out in 2024.

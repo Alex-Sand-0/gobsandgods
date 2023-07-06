@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: Gobs & Gods
+description: The tactical RPG going full Goblin mode.
+url: https://gobsandgods.com
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: Goblinou
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Alexandre Gilotte
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/todo
+    - https://gobsandgods.com
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Alexandre Gilotte
+  url: https://gobsandgods.com
+#  email: abcd@gmail.com

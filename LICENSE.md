@@ -1,3 +1,6 @@
+This file contains the License of the not-pure-poole template
+https://github.com/vszhub/not-pure-poole
+
 # Released under MIT License
 
 Copyright (c) 2013 Mark Otto.
