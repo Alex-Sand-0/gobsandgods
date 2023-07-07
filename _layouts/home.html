@@ -24,6 +24,11 @@ layout: default
     </div>
 
     <p>{{ post.excerpt | strip_html }}</p>
+
+	{% if post.excerpt != post.content %}
+		<a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+	{% endif %}	
+	
   </section>
   {% endfor %}
   {%- if jekyll.environment == "production" and site.disqus -%}
