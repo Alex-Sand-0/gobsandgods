@@ -16,16 +16,16 @@ Goblins are sneaky, unpredictable, green and smelly. But on the bright side, the
 ### A Tactical RPG
 
 You will explore the world and uncover its secrets, visiting goblin villages, dark forests, crumbly dungeons, ... 
-During your exploration, you will hire hire a bunch of Goblins followers whp  willhelp you fight your way trough the map and hopefully survive long enough to level up.
+During your exploration, you will hire a bunch of Goblins followers who will help you fight your way through the map and hopefully survive long enough to level up.
 
 ![image](\assets\images\world_screenshot.jpeg)
 
-You will also discover hidden treasures to equip your goblins, and learn powerfull spells which will allow to act directly in the battles.
+You will also discover hidden treasures to equip your goblins, and learn powerfull spells which will enable you to act directly in the battles.
 
 
 ### Goblin quests
 
-Certain inhabitants will present you with various quests. Embarking on these quests is an excellent method to acquire resources, gain experience, and unravel the mysteries of this world. However, it's worth noting that goblin quests can occasionally be quite peculiar in nature!
+Some inhabitants will propose you with various quests. Embarking on these quests is an excellent method to acquire resources, gain experience, and unravel the mysteries of this world. However, it's worth noting that goblin quests can occasionally be quite peculiar in nature!
 
 ![image](\assets\images\screenshot_whatismyquest.jpeg)
 *Maybe. When dealing with goblins, Always be prepared for anything.*

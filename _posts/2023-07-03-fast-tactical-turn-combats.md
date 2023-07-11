@@ -18,7 +18,7 @@ This turn-based setting will test your tactical skills if you wish to avoid losi
 
 
 ### Fast ennemies turn 
-While turn base games are our personal favorite for the tactical challenge they can offer, they often suffer from long downtime in large battles when you have to wait for an ennmy to play ... and the next one ...and the next next one ... and so on ... .
+While turn base games are our personal favorite for the tactical challenge they can offer, they often suffer from long downtime in large battles when you have to wait for an ennemy to play ... and the next one ...and the next next one ... and so on ... .
 
 Well, this won't happen in *Gobs and Gods*.
 Indeed , all the ennemies play simultaneously during the AI turn, making sure that you spend your time focusing on *your* next move and not on waiting for an opponent to finish its sloowww animation.
