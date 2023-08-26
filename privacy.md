@@ -3,6 +3,8 @@ layout: page
 title: Cookies!
 ---
 
-We collect usage data using google analytics for the purposes of visualizing the traffic on this website.
+*No Gob has been harmed while baking our cookies.*
+
+We collect usage data using Google analytics for the purposes of visualizing the traffic on this website.
 All data is anonymized and we do not sell or share any data with third parties.
 If you choose to deny, no info will be collected whatsoever.
