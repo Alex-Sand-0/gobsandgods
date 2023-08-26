@@ -2,7 +2,7 @@
 layout: post
 title: Truly "Epic" quests
 author: Goblinou
-released:false
+skipthis: true
 tags:
 - quests
 - gobs-and-gods

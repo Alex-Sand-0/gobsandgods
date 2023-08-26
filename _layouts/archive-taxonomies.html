@@ -18,7 +18,8 @@ layout: default
 {% comment %} Calculate the max count of taxonomies {% endcomment %}
 {%- assign max_count = 0 -%}
 {%- for taxonomy in taxonomies -%}
-  {%- assign posts = taxonomy[1] -%}
+  {%- assign posts = taxonomy[1] -%}  
+  {%- assign posts = posts | where_exp:"post", "post.skipthis != true"  -%}
   {%- if posts.size > max_count -%}
     {%- assign max_count = posts.size -%}
   {%- endif -%}
@@ -31,6 +32,7 @@ layout: default
         {%- assign taxonomy_name = taxonomy[0] -%}
         {%- assign slugified_taxonomy_name = taxonomy_name | slugify -%}
         {%- assign posts = taxonomy[1] -%}
+        {%- assign posts = posts | where_exp:"post", "post.skipthis != true"  -%}
         {%- if posts.size == i -%}
           <li>
             {%- capture link -%}{{ page.permalink }}#{{ slugified_taxonomy_name }}{%- endcapture -%}
@@ -57,6 +59,7 @@ layout: default
     {%- assign taxonomy_name = taxonomy[0] -%}
     {%- assign slugified_taxonomy_name = taxonomy_name | slugify -%}
     {%- assign posts = taxonomy[1] -%}
+    {%- assign posts = posts | where_exp:"post", "post.skipthis != true"  -%}
     {%- if posts.size == i -%}
       <h2 id="{{ slugified_taxonomy_name }}">
         {%- if page.type == 'tags' -%}

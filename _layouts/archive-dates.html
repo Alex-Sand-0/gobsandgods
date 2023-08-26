@@ -6,7 +6,9 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 
-{%- assign taxonomies = site.posts | group_by_exp: "post", "post.date | date: '%Y'" -%}
+
+{%- assign postsok = site.posts | where_exp:"post", "post.skipthis != true"  -%}
+{%- assign taxonomies = postsok | group_by_exp: "post", "post.date | date: '%Y'" -%}
 
 <div class="taxonomies-wrapper">
   <ul class="taxonomies">
