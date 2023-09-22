@@ -36,7 +36,7 @@ The game keeps track of the level and count of your fallen gobs,
 But that's not all! 
 As a deity, you accumulate 'godly experience' points when your goblins meet their demise, with higher-level goblins yielding greater rewards. 
 These points allow you to unlock new perks to bolster your future goblin recruits, making them tougher and stronger (though perhaps not any wiser).
-You can also spend this points to acquire divine spells, granting you the ability to cast powerful incantations directly in the heat of battle.
+You can also spend these points to acquire divine spells, granting you the ability to cast powerful incantations directly in the heat of battle.
 
 So we hope that you'll embrace the challenge without resorting to constant save scumming!
 
