@@ -13,7 +13,8 @@ layout: default
 <aside class="related">
   <h2>About Gobs and Gods</h2>
   <ul class="related-posts">
-  {%- assign posts = site.articles -%}
+  {%- assign posts = site.articles | where_exp:"post", "post.skipthis != true"  -%}
+  
     {% for post in posts  %}
       <li>
         <a href="{{ post.url | relative_url }}">

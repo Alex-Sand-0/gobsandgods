@@ -2,7 +2,6 @@
 layout: article
 title: Unleash Your Godly Might
 author: Goblinou
-skipthis: true
 tags:
 - gameplay
 - gobs-and-gods
