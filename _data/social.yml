@@ -1,5 +1,10 @@
+- title: Steam
+  url: https://store.steampowered.com/app/2506900/Gobs_and_Gods/
+  icon: fab fa-steam
+
 - title: Twitter
   url: https://twitter.com/gobsandgods
   icon: fab fa-twitter
+  
 - title: Gobandgods
   url: https://gobsandgods.com
