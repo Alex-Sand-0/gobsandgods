@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About us
 ---
 
 **Gobs and Gods** is a tactical RPG where you freely [explore a fantastic world](/2023/07/01/exploring-the-world/) full of magic and wonders.

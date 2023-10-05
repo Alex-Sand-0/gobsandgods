@@ -2,10 +2,16 @@
 title: Gobs & Gods
 description: The tactical RPG going full Goblin mode.
 url: https://gobsandgods.com
+
+website: https://gobsandgods.com
+basewebsite: gobsandgods
+
+
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
+
 
 # Gems
 plugins:
@@ -58,3 +64,9 @@ author:
   name: Alexandre Gilotte
   url: https://gobsandgods.com
 #  email: abcd@gmail.com
+
+
+collections:
+  articles:
+    output: true
+    coverimage: steam/store_capsule_header.png
