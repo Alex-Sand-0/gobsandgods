@@ -5,9 +5,8 @@ h1, h2, h3,  .post-title, .masthead-title, .navigation-item {
 
 }
 
-
-a {
-   color: green;
-}
-
+main a:link { color: green; }
+main a:visited { color: darkgreen; }
+main a:hover { color: forestgreen; }
+main a:active { color: lightgreen; }
 
