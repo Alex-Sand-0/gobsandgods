@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Unleash Your Godly Might
 author: Goblinou
 skipthis: true
@@ -8,7 +8,7 @@ tags:
 - gobs-and-gods
 toc:  false
 date: 2023-09-20
-permalink: /:basename:output_ext
+permalink: /:name:output_ext
 
 ---
 
@@ -19,13 +19,13 @@ These goblins will gain xp when they survive a battle,
 increasing their strength, unlocking new skills, 
 and enabling you to deal with stronger enemies...
 
-![image]({{ 'assets/images/godpowers_cantgowrong.jpeg' | relative_url }})
+![image]({{ 'assets/images/godpowers_cantgowrong.jpg' | relative_url }})
 *What about these ennemies? Only two of them, can it go wrong?*
 
 
 ... until most of your army gets wiped out in a tricky battle.
 
-![image]({{ 'assets/images/godpowers_bloodbath.jpeg' | relative_url }})
+![image]({{ 'assets/images/godpowers_bloodbath.jpg' | relative_url }})
 *Oops! One single survivor. But still a victory, isn't it?*
 
 Time to reload your last save? Not necessarly!

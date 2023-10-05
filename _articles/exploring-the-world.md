@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: article
 title: Exploring the world
 date: 2023-07-01 10:18 +0800
 tags: 
 - gobs-and-gods
 - quests
 toc:  false
-permalink: /:basename:output_ext
+permalink: /:name:output_ext
 
 ---
 ## Welcome to the land of Goblins!
@@ -20,7 +20,7 @@ Goblins are sneaky, unpredictable, green and smelly. But on the bright side, the
 You will explore the world and uncover its secrets, visiting goblin villages, dark forests, crumbly dungeons, ... 
 During your exploration, you will hire a bunch of Goblins followers who will help you fight your way through the map and hopefully survive long enough to level up.
 
-![image]({{ 'assets/images/world_screenshot.jpeg' | relative_url }})
+![image]({{ 'assets/images/world_screenshot.jpg' | relative_url }})
 
 
 You will also discover hidden treasures to equip your goblins, and learn powerfull spells which will enable you to act directly in the battles.
@@ -30,7 +30,7 @@ You will also discover hidden treasures to equip your goblins, and learn powerfu
 
 Some inhabitants will propose you with various quests. Embarking on these quests is an excellent method to acquire resources, gain experience, and unravel the mysteries of this world. However, it's worth noting that goblin quests can occasionally be quite peculiar in nature!
 
-![image]({{ 'assets/images/screenshot_whatismyquest.jpeg' | relative_url }})
+![image]({{ 'assets/images/screenshot_whatismyquest.jpg' | relative_url }})
 
 *Maybe. When dealing with goblins, Always be prepared for anything.*
 

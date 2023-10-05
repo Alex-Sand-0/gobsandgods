@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Goblins of character
 author: Goblinou
 tags:
@@ -7,7 +7,7 @@ tags:
 - gobs-and-gods
 toc:  false
 date: 2023-07-06 10:00 +0800
-permalink: /:basename:output_ext
+permalink: /:name:output_ext
 
 ---
 
@@ -16,7 +16,7 @@ Of course, these are *Goblins* traits, so you should not expect to find boring t
 Obviously, all of these are defects, but most will be accompanied by a small hidden bonus. Making the best of your goblins despite themselves will be part of the fun!
 
 
-![image](\assets\images\greedy.jpeg)
+![image](\assets\images\greedy.jpg)
 
 
 Here Gobibet is *Greedy* and *Werewolf Poser*. *Greedy* means that he will categorically refuse to let down his equipement, unless you replace it with a higher level item. 

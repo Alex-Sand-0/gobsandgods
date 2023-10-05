@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Truly "Epic" quests
 author: Goblinou
 skipthis: false
@@ -8,7 +8,7 @@ tags:
 - gobs-and-gods
 toc:  false
 date: 2023-08-25 10:00 +0800
-permalink: /:basename:output_ext
+permalink: /:name:output_ext
 ---
 
 Does this kind of quest look familiar?
@@ -30,6 +30,6 @@ Yes, I stopped reading after the first line too.
 So in Gobs and Gods, quests won't exactly look like this. You won't be asked to save the world yet another time, or to rescue yet another random guy about whom you just don't care.
 Instead, you will get quests which make sense *for a gob*. And maybe for once you will actually read the text! 
 
-![image]({{ 'assets/images/paperwork.jpeg' | relative_url }})
+![image]({{ 'assets/images/paperwork.jpg' | relative_url }})
 
 
