@@ -7,13 +7,13 @@ website: https://gobsandgods.com
 basewebsite: gobsandgods
 
 
-avatar: /avatar.jpeg
+avatar: /assets/images/logo_large_cropped.png
 
 paginate: 5
 paginate_path: "/blog/page:num"
 
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /assets/images/cartouche_1.jpg
 
 
 # Gems
