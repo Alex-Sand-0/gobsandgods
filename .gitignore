@@ -41,6 +41,7 @@ validation-report.json
 
 # Folders to ignore
 node_modules
+assets/images/tests
 
 # Ruby gems
 *.gem
