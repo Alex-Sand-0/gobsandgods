@@ -30,6 +30,6 @@ Yes, I stopped reading after the first line too.
 So in Gobs and Gods, quests won't exactly look like this. You won't be asked to save the world yet another time, or to rescue yet another random guy about whom you just don't care.
 Instead, you will get quests which make sense *for a gob*. And maybe for once you will actually read the text! 
 
-![image]({{ 'assets/images/paperwork.jpg' | relative_url }})
+![paperwork quest screenshot]({{ 'assets/images/paperwork.jpg' | relative_url }})
 
 

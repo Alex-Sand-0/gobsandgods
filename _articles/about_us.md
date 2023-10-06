@@ -12,14 +12,14 @@ permalink: /:name:output_ext
 skipthis: false
 ---
 
-<img class="rightimage" width="200" src="{{ 'assets/gobs/gobmeka_01.png' | relative_url }}" />
+<img class="rightimage" width="200" src="{{ 'assets/gobs/gobmeka_01.png' | relative_url }}" alt="Goblin Engineer Avatar"/>
 
 <h2> Alexandre Gilotte</h2>
 After teaching math for a few years, I transitioned to the adtech industry and spent 10 years enhancing machine learning models at Criteo, initially as a developer and later as a researcher. Recently, I made the decision to dedicate an entire year to work exclusively on 'Gobs & Gods' as the sole developer.
 
 <div class="cleardiv"></div>
 
-<img  class="leftimage" width="200" src="{{ 'assets/gobs/joker_03.png' | relative_url }}" />
+<img  class="leftimage" width="200" src="{{ 'assets/gobs/joker_03.png' | relative_url }}" alt="Goblin Joker Avatar"/>
 <h2> Thierry Gilotte</h2>  
 After hesitating for a long time between studying art and engineering, I eventually pursued both, and now work as an art teacher. I began drawing Goblins almost 20 years ago for a board game prototype which was already called 'Gobs and Gods.' I am now creating all the artwork for 'Gobs' in my free time.
 <div class="cleardiv"></div>

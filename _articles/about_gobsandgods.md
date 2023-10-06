@@ -23,7 +23,7 @@ which serious companies would simply not dare to embrace.
 We also take great care in crafting a unique and challenging gameplay. And we approach this aspect with utmost seriousness.
 
 
-![image]({{'assets/images/incontinent.jpg'}})
+![incontinent gob cannot wear armor]({{'assets/images/incontinent.jpg'}})
 *In which other game have you ever had to deal with this??* 
 
 
@@ -38,7 +38,7 @@ It's also worth noting that the offbeat tone of our world allows for some intere
 Of course, since there are only two of us working on this game, we've had to take a few shortcuts.
 For instance, don't expect intricate 3D animations; our game is strictly 2D with minimalist cartoonish animations.
 
-![image]({{ 'assets/images/somegob.jpg' | relative_url }})*No, this Gob has no hands. Correctly drawing the hands of the different races on top of the weapons was just too much of a headache.*
+![some gob. Hands are not drawn.]({{ 'assets/images/somegob.jpg' | relative_url }})*No, this Gob has no hands. Correctly drawing the hands of the different races on top of the weapons was just too much of a headache.*
 
 We also know nothing about Marketing. 
 We are even terrified by it. Marketing... how do you kill that thing?! 

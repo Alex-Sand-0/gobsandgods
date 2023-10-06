@@ -18,13 +18,13 @@ These goblins will gain xp when they survive a battle,
 increasing their strength, unlocking new skills, 
 and enabling you to deal with stronger enemies...
 
-![image]({{ 'assets/images/godpowers_cantgowrong.jpg' | relative_url }})
+![entering a battle vs slugs]({{ 'assets/images/godpowers_cantgowrong.jpg' | relative_url }})
 *What about these ennemies? Only two of them, can it go wrong?*
 
 
 ... until most of your army gets wiped out in a tricky battle.
 
-![image]({{ 'assets/images/godpowers_bloodbath.jpg' | relative_url }})
+![end battle screen.]({{ 'assets/images/godpowers_bloodbath.jpg' | relative_url }})
 *Oops! One single survivor. But still a victory, isn't it?*
 
 Time to reload your last save? Not necessarly!
