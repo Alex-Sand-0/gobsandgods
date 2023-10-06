@@ -9,10 +9,10 @@ tags:
 toc:  false
 date: 2023-10-02
 permalink: /:name:output_ext
-skipthis: true
+skipthis: false
 ---
 
-*"Gobs and Gods"* is an independent game, frantically developed by two brothers: one developer, one artist.
+*"Gobs and Gods"* is an independent game, frantically developed by [two brothers]( {{ 'about_us' | relative_url }}#maincontent): one developer, one artist.
 
 *Our focus:* Creating the game we wish to play.
 
@@ -43,6 +43,6 @@ For instance, don't expect intricate 3D animations; our game is strictly 2D with
 We also know nothing about Marketing. 
 We are even terrified by it. Marketing... how do you kill that thing?! 
 
-So, if you'd like to reshare our posts and wishlist our game, please do! 
+So, if you'd like to reshare our posts and [wishlist our game](https://store.steampowered.com/app/2506900/Gobs_and_Gods/), please do! 
 Your support will help us dedicate more time to the game.
 

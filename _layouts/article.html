@@ -18,7 +18,7 @@ layout: default
   
     {% for post in posts  %}
       <li>
-        <a href="{{ post.url | relative_url }}">
+        <a href="{{ post.url | relative_url }}#maincontent">
           {{ post.title }}
          
 <!-- <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>

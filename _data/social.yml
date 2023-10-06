@@ -5,6 +5,12 @@
 - title: Twitter
   url: https://twitter.com/gobsandgods
   icon: fab fa-twitter
-  
-- title: Gobandgods
-  url: https://gobsandgods.com
+
+- title: Facebook
+  url: https://www.facebook.com/gobs.and.gods
+  icon: fab fa-facebook
+
+- title: Instagram
+  url: https://www.instagram.com/gobs_and_gods/
+  icon: fab fa-instagram
+
