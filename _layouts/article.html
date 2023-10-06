@@ -5,8 +5,7 @@ layout: default
 <article class="post">
   <h1 class="post-title">{{ page.title }}</h1>
 
-{% if page.subtitle == blank  %}
-{% else %}
+{% if page.subtitle %}
   <h3 class="post-title">{{ page.subtitle }}</h3>
 {% endif %}
 
