@@ -1,9 +1,9 @@
 # Setup
 title: Gobs & Gods
 description: The tactical RPG going full Goblin mode.
-url: https://gobsandgods.com
+url: https://www.gobsandgods.com
 
-website: https://gobsandgods.com
+website: https://www.gobsandgods.com
 basewebsite: gobsandgods
 
 
@@ -45,7 +45,7 @@ social:
   name: Alexandre Gilotte
   links:
     - https://twitter.com/todo
-    - https://gobsandgods.com
+    - https://www.gobsandgods.com
 # google_site_verification: xxxxx
 lang: en
 
@@ -65,7 +65,7 @@ google_analytics: G-6VPQPGK69Y
 # Specify the author for blog posts
 author:
   name: Alexandre Gilotte
-  url: https://gobsandgods.com
+  url: https://www.gobsandgods.com
 #  email: abcd@gmail.com
 
 collections:
