@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Gobs and Gods
+title: Gobs and Gods, the tactical RPG going full Goblin Mode.
+description: Gobs and Gods is an indie tactical RPG featuring challenging turn-by-turn combats and comically absurd quests. Arriving on Steam in 2024.
 ---
 
 
