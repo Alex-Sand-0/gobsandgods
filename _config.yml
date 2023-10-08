@@ -12,7 +12,7 @@ avatar: /assets/images/logo_large_cropped.png
 paginate: 5
 paginate_path: "/blog/page:num"
 
-permalink: pretty
+permalink: /blog/:title:output_ext
 cover_image: /assets/images/cartouche_1.jpg
 
 
@@ -72,5 +72,5 @@ author:
 collections:
   articles:
     output: true
-    permalink: /:name:output_ext    
+    permalink: /:name:output_ext
     coverimage: steam/store_capsule_header.png
