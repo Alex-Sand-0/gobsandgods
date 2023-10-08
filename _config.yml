@@ -35,6 +35,7 @@ exclude:
   - README.md
   - scripts/
   - not-pure-poole.gemspec
+  - not-pure-poole-license.md
 
 # Optimize Jekyl SEO Tag
 twitter:
