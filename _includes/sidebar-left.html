@@ -6,7 +6,9 @@
       {%- else -%}
         {%- assign avatar = site.avatar | relative_url -%}
       {%- endif -%}
-      <img src="{{ avatar }}" class="avatar-logo" alt="{{ site.title }}">
+	  <a href="{{ "/" | relative_url }}">
+        <img src="{{ avatar }}" class="avatar-logo" alt="{{ site.title }}" > 
+      </a>
     </div>
   {%- endif %}
 <!--  <div class="masthead-title">
