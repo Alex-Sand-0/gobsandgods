@@ -17,7 +17,10 @@ layout: default
 <aside class="related">
   <h2>About Gobs and Gods</h2>
   <ul class="related-posts">
-  {%- assign posts = site.articles | where_exp:"post", "post.skipthis != true"  -%}
+  {%- assign posts = site.articles | where_exp:"post", "post.skipthis != true" -%}
+
+
+  {%- assign posts = posts | sort:"order" -%}
   
     {% for post in posts  %}
       <li>

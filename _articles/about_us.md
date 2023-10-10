@@ -10,6 +10,8 @@ toc:  false
 date: 2023-10-02
 permalink: /:name:output_ext
 skipthis: false
+order: 30
+
 ---
 
 <img class="rightimage" width="200" src="{{ 'assets/gobs/gobmeka_01.png' | relative_url }}" alt="Goblin Engineer Avatar"/>

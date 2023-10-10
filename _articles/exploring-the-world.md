@@ -7,7 +7,7 @@ tags:
 - quests
 toc:  false
 permalink: /:name:output_ext
-
+order: 20
 ---
 ## Welcome to the land of Goblins!
 

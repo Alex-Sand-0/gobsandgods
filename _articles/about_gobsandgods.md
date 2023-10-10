@@ -10,6 +10,8 @@ toc:  false
 date: 2023-10-02
 permalink: /:name:output_ext
 skipthis: false
+order: 10
+
 ---
 
 *"Gobs and Gods"* is an independent game, frantically developed by [two brothers]( {{ 'about_us' | relative_url }}#maincontent): one developer, one artist.
