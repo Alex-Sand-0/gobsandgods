@@ -14,7 +14,7 @@ order: 10
 
 ---
 
-*"Gobs and Gods"* is an independent game, frantically developed by [two brothers]( {{ 'about_us' | relative_url }}#maincontent): one developer, one artist.
+*"Gobs and Gods"* is an independent game, frantically developed by [two brothers]( {{ 'about-us' | relative_url }}#maincontent): one developer, one artist.
 
 *Our focus:* Creating the game we wish to play.
 
