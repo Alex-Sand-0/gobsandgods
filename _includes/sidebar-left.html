@@ -47,7 +47,11 @@
       <ul class="social-icons pure-menu-list">
       {% for social in site.data.social -%}
         <li class="pure-menu-item">
+         {% if social.title == "Mastodon" -%}
+          <a rel="me" class="social-icon pure-menu-link" href="{{ social.url }}">
+         {% else %}  
           <a class="social-icon pure-menu-link" href="{{ social.url }}">
+         {%- endif %}
             <i class="{{ social.icon | default: 'fas fa-link' }}" title="{{ social.title }}"></i>
           </a>
         </li>
