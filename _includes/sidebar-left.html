@@ -15,7 +15,6 @@
     <a href="{{ "/" | relative_url }}" title="Home">{{ site.title }}</a>
   </div>
 -->
-  <br>
   <div class="masthead-tagline">
     <small>
 	<a href="{{ 'about-gobsandgods' | relative_url }}#maincontent" title="Home">{{ site.description }}</a>
@@ -27,7 +26,6 @@
       <a href="{{ 'about-us' | relative_url }}#maincontent" title="Home">By Alexandre and Thierry Gilotte</a>
     </i></small>
   </div>
-  <br>
   
   {%- if site.data.navigation -%}
   <nav class="navigation">
@@ -40,9 +38,18 @@
     </ul>
   </nav>
   {%- endif -%}
-  <br>
 
  {% if site.data.social -%}
+ 
+     <div class="social pure-menu pure-menu-horizontal">
+        <ul class="social-icons pure-menu-list">
+        <a class="social-icon pure-menu-link" href="https://store.steampowered.com/app/2506900/Gobs_and_Gods/">
+        <li class="pure-menu-item">
+             <i class="fab fa-steam" title="Retrieve us on Steam"></i>
+          </a></li></ul>
+     </div>
+ 
+
     <div class="social pure-menu pure-menu-horizontal">
       <ul class="social-icons pure-menu-list">
       {% for social in site.data.social -%}

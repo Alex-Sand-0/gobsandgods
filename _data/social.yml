@@ -1,6 +1,6 @@
-- title: Steam
-  url: https://store.steampowered.com/app/2506900/Gobs_and_Gods/
-  icon: fab fa-steam
+#- title: Steam
+#  url: https://store.steampowered.com/app/2506900/Gobs_and_Gods/
+#  icon: fab fa-steam
 
 - title: Twitter
   url: https://twitter.com/gobsandgods
@@ -14,3 +14,6 @@
   url: https://www.instagram.com/gobs_and_gods/
   icon: fab fa-instagram
 
+- title: Mastodon
+  url: https://mastodon.gamedev.place/@AlexandreGilotte
+  icon: fab fa-mastodon
