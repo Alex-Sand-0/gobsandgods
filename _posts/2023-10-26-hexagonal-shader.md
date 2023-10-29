@@ -7,7 +7,6 @@ tags:
 - gamedev
 - shaders
 toc:  false
-date: 2023-10-25
 ---
 
 
