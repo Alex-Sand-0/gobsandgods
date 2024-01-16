@@ -46,7 +46,7 @@ Main inhabitants of this world are Goblins, and you are one of their Gods.
 
 ### Assets
 
-- [zip (20 Mb)]({{ 'assets/downloads/presskit_images.zip' | relative_url }}) with Screenshots, Logo && Graphical elements
+- [zip (20 Mb)](https://www.gobsandgods.com/assets/downloads/presskit_images.zip) with Screenshots, Logo && Graphical elements
 - Video trailer: [View on youtube](https://www.youtube.com/watch?v=bJZslq2sr-s&ab_channel=GobsandGods)
   [Download (113 Mb)](https://drive.google.com/file/d/1j_6WpbAVcFOfvPkooVftDsiuabQlCMXd/view?usp=sharing)
 
