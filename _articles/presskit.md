@@ -26,23 +26,30 @@ order: 30
 
 ### Short description
 
-The tactical RPG going full Goblin mode!
+"The tactical RPG going full Goblin mode!"
 Hire a band of almost-heroic goblins to fight and die for you in tactical turn-based battles, accomplish silly quests for the weird inhabitants of this fantastic world, and truly become a god - at least by goblin standards.
 
-### Game overview
+### Game overview: a Pythonesque Tactical RPG
 
-At its core, Gobs and Gods is a *Tactical RPG*:
+At its core, Gobs & Gods has all the traits of a classical **tactical RPG**:
+ an **open 2D world** to explore, a squad of goblins to **hire**, train and level-up, **quests** for NPCs, and fights on **tactical hexagonal grids**.
+But here's the twist: the characters are Goblins. 
+Squeeky, puny, stupid, sometimes incontinent or coquettish goblins. And the player is their God.
 
-- You freely explore a procedural 2D fantasy world.
-- You hire, level up, and equip a small troupe of Goblins.
-- You engage in fights on a tactical hexagonal grid. These fights are turn-based but can be switched to real-time.
-- You complete random quests for the local villagers and follow a unique main quest.
+Therefore, the player is invited to wander in a half-satirical and **Monty Pythonesque** universe,  brought to life by a comic book-style aesthetic.
+Quests are the opportunity for **memorably absurd dialogues** with the local Goblin NPCs.
 
-This "classical" gameplay has a major *twist*: 
-Main inhabitants of this world are Goblins, and you are one of their Gods.
-- Quests have delightfully absurd dialogs.
-- Your goblins have colorful character traits (Incontinent, Coquettish, Monomaniac, ...) which all impact the gameplay.
-- Being a God, you receive compensation when your hired goblins die, unlocking new powers.
+The colourful character traits of the player's Goblins will have funny effects in combat:
+Beware of the exibitionist Gob, who may randomly drop his armor mid fight!
+Special pieces of equipment can also be stumbled into, like the holy Toilet Plunger, or the mighty Sausage Gun.
+And, of course, Goblins are frail and die easily. No problem, they are meant to be **expendable**: 
+The player is their God, so any death of one of their followers earns them experience points.
+
+Finally:
+- Turn-based combats may be switched to real-time mode, for faster resolution.
+- For better replayability, the whole 2D world is generated randomly at the start of a game, with only the prewritten main quest as a guiding thread... which the player is free to follow or to ignore entirely!
+- Every artwork, every animation is homemade, in a DIY state of mind.
+
 
 ### Assets
 
@@ -54,7 +61,7 @@ Main inhabitants of this world are Goblins, and you are one of their Gods.
 
 We are two brothers working on *Gobs and Gods*:
 - Alexandre Gilotte has paused a career in the tech industry to handle the development of Gobs.
-- Thierry Gilotte has a dual background in art and engineering and is taking care of all graphical aspects."
+- Thierry Gilotte has a dual background in art and engineering and is taking care of all graphical aspects.
 
 
 ### Links and Social media 
