@@ -78,3 +78,10 @@ We are two brothers working on *Gobs and Gods*:
 
 - Gobs and Gods is made with [Godot 3.5](https://godotengine.org/) , written in C#  
 - it also uses the [Ink](https://github.com/inkle/ink) library
+
+### Music Credits
+
+Musics in Gobs and Gods have been composed and publicly released by [Scott Buckley](https://www.scottbuckley.com.au/) under CC-BY 4.0. licence.
+If you make a video of our game, please either:
+- Disable the music (with the button in the bottom right corner of the first screen)
+- Or include the credit: "Music  by Scott Buckley – released under-CC-BY 4.0. www.scottbuckley.com.au"
