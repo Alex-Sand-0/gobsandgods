@@ -7,7 +7,7 @@ tags:
 - quests
 - gobs-and-gods
 toc:  false
-date: 2024-01-16 10:00 +0800
+date: 2024-07-26
 permalink: /:name:output_ext
 order: 30
 ---
@@ -16,10 +16,9 @@ order: 30
 
 - Game name: "Gobs and Gods"
 - [ Steam page](https://store.steampowered.com/app/2506900/Gobs_and_Gods/)
-- Release date: May 2024. Windows, Linux, MacOs.
-- Demo availability: 22 january to April 2024. Windows only.
+- Release date: 19 July 2024. Windows. (Linux & MacOs versions: Work in progress)
 - Language: English.
-- Expected price: around 10€
+- Price: around 12€
 - Authors: Alexandre Gilotte, Thierry Gilotte
 
 ![a few goblins]({{'assets/images/store_about-this-game_v2.png' | relative_url }})
@@ -60,19 +59,19 @@ Finally:
 ### About us
 
 We are two brothers working on *Gobs and Gods*:
-- Alexandre Gilotte has paused a career in the tech industry to handle the development of Gobs.
+- Alexandre Gilotte took a break from his career in the tech industry to handle the development of Gobs.
 - Thierry Gilotte has a dual background in art and engineering and is taking care of all graphical aspects.
 
 
 ### Links and Social media 
 
 - [Steam page](https://store.steampowered.com/app/2506900/Gobs_and_Gods/)
+- [our discord](https://discord.com/invite/ggbFgbyF4t)
 - [our website](https://www.gobsandgods.com/)
-- [Instagram](https://www.instagram.com/gobs_and_gods/)
-- [Twitter](https://twitter.com/gobsandgods)
-- [Facebook](https://www.facebook.com/profile.php?id=61551838066813)
-- [Mastodon](https://mastodon.gamedev.place/@AlexandreGilotte)
-
+//- [Facebook](https://www.facebook.com/profile.php?id=61551838066813)
+//- [Instagram](https://www.instagram.com/gobs_and_gods/)
+//- [Twitter](https://twitter.com/gobsandgods)
+//- [Mastodon](https://mastodon.gamedev.place/@AlexandreGilotte)
 
 ### Technical stack
 
