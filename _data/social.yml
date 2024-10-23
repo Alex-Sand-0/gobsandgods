@@ -2,6 +2,14 @@
 #  url: https://store.steampowered.com/app/2506900/Gobs_and_Gods/
 #  icon: fab fa-steam
 
+- title: Discord
+  url: https://discord.com/invite/TJUNDJMUJX
+  icon: fab fa-discord
+
+- title: Reddit
+  url: https://www.reddit.com/r/GobsAndGods/
+  icon: fab fa-reddit
+  
 - title: Twitter
   url: https://twitter.com/gobsandgods
   icon: fab fa-twitter
@@ -17,3 +25,6 @@
 - title: Mastodon
   url: https://mastodon.gamedev.place/@AlexandreGilotte
   icon: fab fa-mastodon
+
+
+
