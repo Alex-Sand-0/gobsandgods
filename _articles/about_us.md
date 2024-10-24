@@ -27,8 +27,10 @@ After hesitating for a long time between studying art and engineering, I eventua
 <div class="cleardiv"></div>
 
 <h2> Retrieve us on social media!</h2>
+ - On [Discord](https://discord.com/invite/TJUNDJMUJX)
+ - On [Reddit](https://www.reddit.com/r/GobsAndGods/)
  - On [Instagram](https://www.instagram.com/gobs_and_gods/) ( Best place to view cute Gobs pics)
  - On [Twitter](https://twitter.com/gobsandgods)  (Or whatever the name now)
  - On [Facebook](https://www.facebook.com/gobs.and.gods) (Because who does not want a Goblin as a friend?) 
- - And of course on [Steam](https://store.steampowered.com/app/2506900/Gobs_and_Gods/)  (Did you wishlist us already?) 
+ - And of course on [Steam](https://store.steampowered.com/app/2506900/Gobs_and_Gods/)
 
