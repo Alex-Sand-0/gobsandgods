@@ -1,15 +1,13 @@
 ---
-layout: article
+layout: post
 title: Goblins on Youtube
-author: Goblinou
+author: Alexandre
 skipthis: false
 tags:
 - links
 - gobs-and-gods
+- release
 toc:  false
-date: 2024-10-27
-permalink: /:name:output_ext
-order: 25
 ---
 
 Since Gobs and Gods release and even before, streamers have played hours of our game on youtube or twitch.
