@@ -9,7 +9,7 @@ basewebsite: gobsandgods
 
 avatar: /assets/images/logo_large_cropped.png
 
-paginate: 5
+paginate: 1000
 paginate_path: "/blog/page:num"
 
 permalink: /blog/:title:output_ext
