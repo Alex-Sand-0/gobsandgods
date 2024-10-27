@@ -87,6 +87,7 @@ GEM
     sawyer (0.8.2)
       addressable (>= 2.3.5)
       faraday (> 0.8, < 2.0)
+    wdm (0.2.0)
     webrick (1.8.1)
 
 PLATFORMS
@@ -97,6 +98,7 @@ DEPENDENCIES
   jekyll-compose
   not-pure-poole!
   rake (~> 12.0)
+  wdm (>= 0.1.0)
   webrick (~> 1.8)
 
 BUNDLED WITH
