@@ -10,6 +10,10 @@ main a:hover { color: forestgreen; }
 main a:active { color: lightgreen; }
 
 
+img[alt=FloatRight] { float: right; }
+img[alt=FloatLeft] { float: left}
+
+
 .leftimage {
   float: left;    
   margin: 0 15px 0 0;
