@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Goblins backgrounds
+title: Goblin backgrounds
 author: Alexandre
 tags:
 - gobs-and-gods
@@ -8,7 +8,7 @@ tags:
 toc:  false
 ---
 
-Goblins you can hire each have a background which determines the skills they can access and their initial statistics. Each background also provides a unique bonus. 
+Goblins you can hire each have a background which determines the skills they can access, and their initial statistics. Each background also provides a unique bonus. 
 
 ## Backgrounds list
 
