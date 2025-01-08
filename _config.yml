@@ -74,3 +74,9 @@ collections:
     output: true
     permalink: /:name:output_ext
     coverimage: steam/store_capsule_header.png
+  mobs:
+    output: true
+    permalink: "/mobs/:name:output_ext"
+  enemies:
+    output: true
+    permalink: "/enemies/:name:output_ext"
