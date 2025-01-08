@@ -1,0 +1,16 @@
+---
+layout: post
+title:  Alchemist_GrandMaster_Trolls
+author: Goblinou
+tags:
+- gobs-and-gods
+- gameplay
+- gobs
+toc:  false
+---
+
+![Alchemist_GrandMaster_Trolls]( {{ 'assets/generated/enemies/alchemist_grandmaster_trolls.jpg' | relative_url }} )
+- Rating: 3200
+- Race: Troll  Faction:Trolls
+
+(Details coming soon... )
