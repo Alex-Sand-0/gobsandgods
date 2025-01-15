@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  @NAME@
+title:  Undeads armies
 author: Goblinou
 tags:
 - gobs-and-gods
@@ -10,9 +10,10 @@ toc:  false
 ---
 
 
+
 This page list some mobs you may encounter in Gobs and Gods. It has been auto-generated from our code and contains data to help us better balance the available mobs. 
 
-## Lichourin the Lich's band
+## Lichoullet the Lich's band
 ```
 GreatLich:1-1,SkeletonHero:1-1,GreatSkeleton:7-11,SkeletonGreatArcher:3-5,SkeletonPike:4-7,SkeletonGuard:1-2,SkeletonArcher:1-2,Lich:1-3,SkeletonBullorc:1-3;tags:Army;factions:Undeads
 ```
@@ -30,7 +31,7 @@ GreatLich:1-1,SkeletonHero:1-1,GreatSkeleton:7-11,SkeletonGreatArcher:3-5,Skelet
 - [SkeletonBullorc]({{ 'enemies/skeletonbullorc.html' | relative_url }})
 
 
-## Skellounin the Skeleton's band
+## Skellillette the Skeleton's band
 ```
 SkeletonHero:1-1,GreatSkeleton:4-7,SkeletonGreatArcher:1-4,SkeletonGuard:2-7,SkeletonPike:2-7,SkeletonArcher:2-7,Lich:0-1,SkeletonBullorc:0-1;tags:Army;factions:Undeads
 ```
@@ -47,7 +48,7 @@ SkeletonHero:1-1,GreatSkeleton:4-7,SkeletonGreatArcher:1-4,SkeletonGuard:2-7,Ske
 - [SkeletonBullorc]({{ 'enemies/skeletonbullorc.html' | relative_url }})
 
 
-## Lichiboux the Lich's band
+## Lichoullet the Lich's band
 ```
 GreatLich:1-1,GreatSkeleton:4-6,SkeletonGreatArcher:2-4,Lich:2-4,SkeletonGuard:2-6,SkeletonPike:2-6,SkeletonArcher:2-6,SkeletonBullorc:0-1;tags:Army;factions:Undeads
 ```
@@ -64,7 +65,7 @@ GreatLich:1-1,GreatSkeleton:4-6,SkeletonGreatArcher:2-4,Lich:2-4,SkeletonGuard:2
 - [SkeletonBullorc]({{ 'enemies/skeletonbullorc.html' | relative_url }})
 
 
-## Lichoulloux the Lich's band
+## Lichaboux the Lich's band
 ```
 GreatSkeleton:2-3,SkeletonGreatArcher:2-3,SkeletonGuard:2-8,SkeletonPike:2-8,SkeletonArcher:2-8,Lich:1-2,SkeletonBullorc:0-1;tags:Army;factions:Undeads
 ```
@@ -80,7 +81,7 @@ GreatSkeleton:2-3,SkeletonGreatArcher:2-3,SkeletonGuard:2-8,SkeletonPike:2-8,Ske
 - [SkeletonBullorc]({{ 'enemies/skeletonbullorc.html' | relative_url }})
 
 
-## Skelloulla the Skeleton's band
+## Skelloulli the Skeleton's band
 ```
 GreatSkeleton:1-1,SkeletonGuard:4-7,Skeleton:0-1,SkeletonPike:1-4,SkeletonArcher:1-4;tags:Army
 ```
@@ -94,7 +95,7 @@ GreatSkeleton:1-1,SkeletonGuard:4-7,Skeleton:0-1,SkeletonPike:1-4,SkeletonArcher
 - [SkeletonArcher]({{ 'enemies/skeletonarcher.html' | relative_url }})
 
 
-## Skellina the Skeleton's band
+## Skellouri the Skeleton's band
 ```
 SkeletonGreatArcher:1-1,SkeletonArcher:3-6,SkeletonGuard:2-5,Skeleton:0-2,SkeletonPike:1-4;tags:Army
 ```
@@ -108,7 +109,7 @@ SkeletonGreatArcher:1-1,SkeletonArcher:3-6,SkeletonGuard:2-5,Skeleton:0-2,Skelet
 - [SkeletonPike]({{ 'enemies/skeletonpike.html' | relative_url }})
 
 
-## Lichinette the Lich's band
+## Lichouroux the Lich's band
 ```
 Lich:1-1,SkeletonGuard:2-4,SkeletonPike:2-4,Skeleton:2-4,SkeletonArcher:2-4;tags:Army
 ```
@@ -122,7 +123,7 @@ Lich:1-1,SkeletonGuard:2-4,SkeletonPike:2-4,Skeleton:2-4,SkeletonArcher:2-4;tags
 - [SkeletonArcher]({{ 'enemies/skeletonarcher.html' | relative_url }})
 
 
-## Skellallet the Skeleton's band
+## Skellouri the Skeleton's band
 ```
 SkeletonGuard:1-3,SkeletonPike:0-2,Skeleton:2-7,SkeletonArcher:1-4;mincount:5;tags:Army
 ```
@@ -135,7 +136,7 @@ SkeletonGuard:1-3,SkeletonPike:0-2,Skeleton:2-7,SkeletonArcher:1-4;mincount:5;ta
 - [SkeletonArcher]({{ 'enemies/skeletonarcher.html' | relative_url }})
 
 
-## Skellouni the Skeleton's band
+## Skellanoux the Skeleton's band
 ```
 SkeletonArcher:3-8,Skeleton:2-7;tags:Army
 ```
@@ -146,7 +147,7 @@ SkeletonArcher:3-8,Skeleton:2-7;tags:Army
 - [Skeleton]({{ 'enemies/skeleton.html' | relative_url }})
 
 
-## Skellani the Skeleton's band
+## Skellilli the Skeleton's band
 ```
 SkeletonPike:1-1,Skeleton:3-14;tags:Army
 ```
@@ -157,7 +158,7 @@ SkeletonPike:1-1,Skeleton:3-14;tags:Army
 - [Skeleton]({{ 'enemies/skeleton.html' | relative_url }})
 
 
-## Skelliret the Skeleton's band
+## Skellirin the Skeleton's band
 ```
 SkeletonArcher:3-8,Skeleton:2-7;tags:Army
 ```

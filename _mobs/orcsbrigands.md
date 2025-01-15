@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  @NAME@
+title:  Orcs brigands
 author: Goblinou
 tags:
 - gobs-and-gods
@@ -10,9 +10,10 @@ toc:  false
 ---
 
 
+
 This page list some mobs you may encounter in Gobs and Gods. It has been auto-generated from our code and contains data to help us better balance the available mobs. 
 
-## Orcallet the Executioner's band
+## Orcoubette the Executioner's band
 ```
 Butchurgeon_Master_Orcs:1-1,Executioner_Master_Orcs:1-1,Knifegrinder_Expert_Orcs:7-11,Engineer_Expert_Orcs:3-5,Jailor_Apprentice_Orcs:4-7,Smith_Apprentice_Orcs:1-2,Innkeeper_Apprentice_Orcs:1-2,Undertaker_Expert_Orcs:1-3,Bullorc:1-3;tags:Brigand;factions:Orcs
 ```
@@ -47,7 +48,7 @@ Executioner_Master_Orcs:1-1,Knifegrinder_Expert_Orcs:4-7,Engineer_Expert_Orcs:1-
 - [Bullorc]({{ 'enemies/bullorc.html' | relative_url }})
 
 
-## Orcallet the Butchurgeon's band
+## Orcaroux the Butchurgeon's band
 ```
 Butchurgeon_Master_Orcs:1-1,Knifegrinder_Expert_Orcs:4-6,Engineer_Expert_Orcs:2-4,Undertaker_Expert_Orcs:2-4,Smith_Apprentice_Orcs:2-6,Jailor_Apprentice_Orcs:2-6,Innkeeper_Apprentice_Orcs:2-6,Bullorc:0-1;tags:Brigand;factions:Orcs
 ```
@@ -64,7 +65,7 @@ Butchurgeon_Master_Orcs:1-1,Knifegrinder_Expert_Orcs:4-6,Engineer_Expert_Orcs:2-
 - [Bullorc]({{ 'enemies/bullorc.html' | relative_url }})
 
 
-## Orcarin the Knifegrinder's band
+## Orcana the Knifegrinder's band
 ```
 Knifegrinder_Expert_Orcs:2-3,Engineer_Expert_Orcs:2-3,Smith_Apprentice_Orcs:2-8,Jailor_Apprentice_Orcs:2-8,Innkeeper_Apprentice_Orcs:2-8,Undertaker_Expert_Orcs:1-2,Bullorc:0-1;tags:Brigand;factions:Orcs
 ```
@@ -80,7 +81,7 @@ Knifegrinder_Expert_Orcs:2-3,Engineer_Expert_Orcs:2-3,Smith_Apprentice_Orcs:2-8,
 - [Bullorc]({{ 'enemies/bullorc.html' | relative_url }})
 
 
-## Orcana the Knifegrinder's band
+## Orcanette the Knifegrinder's band
 ```
 Knifegrinder_Expert_Orcs:1-1,Smith_Apprentice_Orcs:4-7,WildOrc:0-1,Jailor_Apprentice_Orcs:1-4,Innkeeper_Apprentice_Orcs:1-4;tags:Brigand
 ```
@@ -94,7 +95,7 @@ Knifegrinder_Expert_Orcs:1-1,Smith_Apprentice_Orcs:4-7,WildOrc:0-1,Jailor_Appren
 - [Innkeeper_Apprentice_Orcs]({{ 'enemies/innkeeperapprenticeorcs.html' | relative_url }})
 
 
-## Orcini the Smith's band
+## Orcanet the Smith's band
 ```
 Engineer_Expert_Orcs:1-1,Innkeeper_Apprentice_Orcs:3-6,Smith_Apprentice_Orcs:2-5,WildOrc:0-2,Jailor_Apprentice_Orcs:1-4;tags:Brigand
 ```
@@ -108,7 +109,7 @@ Engineer_Expert_Orcs:1-1,Innkeeper_Apprentice_Orcs:3-6,Smith_Apprentice_Orcs:2-5
 - [Jailor_Apprentice_Orcs]({{ 'enemies/jailorapprenticeorcs.html' | relative_url }})
 
 
-## Orcaret the Undertaker's band
+## Orcoubette the Undertaker's band
 ```
 Undertaker_Expert_Orcs:1-1,Smith_Apprentice_Orcs:2-4,Jailor_Apprentice_Orcs:2-4,WildOrc:2-4,Innkeeper_Apprentice_Orcs:2-4;tags:Brigand
 ```
@@ -122,7 +123,7 @@ Undertaker_Expert_Orcs:1-1,Smith_Apprentice_Orcs:2-4,Jailor_Apprentice_Orcs:2-4,
 - [Innkeeper_Apprentice_Orcs]({{ 'enemies/innkeeperapprenticeorcs.html' | relative_url }})
 
 
-## Orcibin the Smith's band
+## Orcaroux the Smith's band
 ```
 Smith_Apprentice_Orcs:1-3,Jailor_Apprentice_Orcs:0-2,WildOrc:2-7,Innkeeper_Apprentice_Orcs:1-4;mincount:5;tags:Brigand
 ```
@@ -135,7 +136,7 @@ Smith_Apprentice_Orcs:1-3,Jailor_Apprentice_Orcs:0-2,WildOrc:2-7,Innkeeper_Appre
 - [Innkeeper_Apprentice_Orcs]({{ 'enemies/innkeeperapprenticeorcs.html' | relative_url }})
 
 
-## Orcouri the Orc's band
+## Orcabette the Orc's band
 ```
 Innkeeper_Apprentice_Orcs:3-8,WildOrc:2-7;tags:Brigand
 ```
@@ -146,7 +147,7 @@ Innkeeper_Apprentice_Orcs:3-8,WildOrc:2-7;tags:Brigand
 - [WildOrc]({{ 'enemies/wildorc.html' | relative_url }})
 
 
-## Orcoulli the Orc's band
+## Orcinette the Orc's band
 ```
 Jailor_Apprentice_Orcs:1-1,WildOrc:3-14;tags:Brigand
 ```
@@ -157,7 +158,7 @@ Jailor_Apprentice_Orcs:1-1,WildOrc:3-14;tags:Brigand
 - [WildOrc]({{ 'enemies/wildorc.html' | relative_url }})
 
 
-## Orcilla the Orc's band
+## Orcounoux the Orc's band
 ```
 Innkeeper_Apprentice_Orcs:3-8,WildOrc:2-7;tags:Brigand
 ```
@@ -168,7 +169,7 @@ Innkeeper_Apprentice_Orcs:3-8,WildOrc:2-7;tags:Brigand
 - [WildOrc]({{ 'enemies/wildorc.html' | relative_url }})
 
 
-## Orciri the Jailor's pack
+## Orcabi the Jailor's pack
 ```
 Jailor_Apprentice_Orcs:1-1,Bullorc:3-5;tags:Brigand;factions:Orcs
 ```
@@ -179,7 +180,7 @@ Jailor_Apprentice_Orcs:1-1,Bullorc:3-5;tags:Brigand;factions:Orcs
 - [Bullorc]({{ 'enemies/bullorc.html' | relative_url }})
 
 
-## Orcounoux the Undertaker's pack
+## Orcana the Undertaker's pack
 ```
 Undertaker_Expert_Orcs:1-1,Bullorc:5-7;tags:Brigand;factions:Orcs
 ```
@@ -190,7 +191,7 @@ Undertaker_Expert_Orcs:1-1,Bullorc:5-7;tags:Brigand;factions:Orcs
 - [Bullorc]({{ 'enemies/bullorc.html' | relative_url }})
 
 
-## Orciba the Smith's gang
+## Orcouri the Smith's gang
 ```
 Smith_Apprentice_Orcs:1-1,Bullorc:1-3;tags:Brigand;factions:Orcs
 ```

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  @NAME@
+title:  ChaosGobs armies
 author: Goblinou
 tags:
 - gobs-and-gods
@@ -10,9 +10,10 @@ toc:  false
 ---
 
 
+
 This page list some mobs you may encounter in Gobs and Gods. It has been auto-generated from our code and contains data to help us better balance the available mobs. 
 
-## Redina the Chaos_Gob's band
+## Redourin the Chaos_Gob's band
 ```
 Chaos_Witch:1-1,Chaos_Joker:1-1,Chaos_Butchurgeon:7-11,Chaos_Minstrel:3-5,Chaos_Herald:4-7,Chaos_Squire:1-2,Chaos_Jailor:2-5,Chaos_Undertaker:1-3;tags:Army
 ```
@@ -29,7 +30,7 @@ Chaos_Witch:1-1,Chaos_Joker:1-1,Chaos_Butchurgeon:7-11,Chaos_Minstrel:3-5,Chaos_
 - [Chaos_Undertaker]({{ 'enemies/chaosundertaker.html' | relative_url }})
 
 
-## Rediboux the Chaos_Gob's band
+## Redinette the Chaos_Gob's band
 ```
 Chaos_Joker:1-1,Chaos_Butchurgeon:4-7,Chaos_Minstrel:1-4,Chaos_Squire:2-7,Chaos_Herald:2-7,Chaos_Jailor:2-8,Chaos_Undertaker:0-1;tags:Army
 ```
@@ -45,7 +46,7 @@ Chaos_Joker:1-1,Chaos_Butchurgeon:4-7,Chaos_Minstrel:1-4,Chaos_Squire:2-7,Chaos_
 - [Chaos_Undertaker]({{ 'enemies/chaosundertaker.html' | relative_url }})
 
 
-## Rediri the Chaos_Gob's band
+## Redanette the Chaos_Gob's band
 ```
 Chaos_Witch:1-1,Chaos_Butchurgeon:4-6,Chaos_Minstrel:2-4,Chaos_Undertaker:2-4,Chaos_Squire:2-6,Chaos_Herald:2-6,Chaos_Jailor:2-7;tags:Army
 ```
@@ -61,7 +62,7 @@ Chaos_Witch:1-1,Chaos_Butchurgeon:4-6,Chaos_Minstrel:2-4,Chaos_Undertaker:2-4,Ch
 - [Chaos_Jailor]({{ 'enemies/chaosjailor.html' | relative_url }})
 
 
-## Redouret the Chaos_Gob's band
+## Redalloux the Chaos_Gob's band
 ```
 Chaos_Butchurgeon:2-3,Chaos_Minstrel:2-3,Chaos_Squire:2-8,Chaos_Herald:2-8,Chaos_Jailor:2-9,Chaos_Undertaker:1-2;tags:Army
 ```
@@ -76,7 +77,7 @@ Chaos_Butchurgeon:2-3,Chaos_Minstrel:2-3,Chaos_Squire:2-8,Chaos_Herald:2-8,Chaos
 - [Chaos_Undertaker]({{ 'enemies/chaosundertaker.html' | relative_url }})
 
 
-## Redira the Chaos_Gob's band
+## Redinet the Chaos_Gob's band
 ```
 Chaos_Butchurgeon:1-1,Chaos_Squire:4-7,Chaos_Guard:0-1,Chaos_Herald:1-4,Chaos_Jailor:1-4;tags:Army
 ```
@@ -90,7 +91,7 @@ Chaos_Butchurgeon:1-1,Chaos_Squire:4-7,Chaos_Guard:0-1,Chaos_Herald:1-4,Chaos_Ja
 - [Chaos_Jailor]({{ 'enemies/chaosjailor.html' | relative_url }})
 
 
-## Rediri the Chaos_Gob's band
+## Redabi the Chaos_Gob's band
 ```
 Chaos_Minstrel:1-1,Chaos_Jailor:3-6,Chaos_Squire:2-5,Chaos_Guard:0-2,Chaos_Herald:1-4;tags:Army
 ```
@@ -104,7 +105,7 @@ Chaos_Minstrel:1-1,Chaos_Jailor:3-6,Chaos_Squire:2-5,Chaos_Guard:0-2,Chaos_Heral
 - [Chaos_Herald]({{ 'enemies/chaosherald.html' | relative_url }})
 
 
-## Redoullette the Chaos_Gob's band
+## Redouboux the Chaos_Gob's band
 ```
 Chaos_Undertaker:1-1,Chaos_Squire:2-4,Chaos_Herald:2-4,Chaos_Guard:2-4,Chaos_Jailor:2-4;tags:Army
 ```
@@ -118,7 +119,7 @@ Chaos_Undertaker:1-1,Chaos_Squire:2-4,Chaos_Herald:2-4,Chaos_Guard:2-4,Chaos_Jai
 - [Chaos_Jailor]({{ 'enemies/chaosjailor.html' | relative_url }})
 
 
-## Redirin the Chaos_Gob's band
+## Redari the Chaos_Gob's band
 ```
 Chaos_Squire:1-3,Chaos_Herald:0-2,Chaos_Guard:2-7,Chaos_Jailor:1-4;mincount:5;tags:Army
 ```
@@ -131,7 +132,7 @@ Chaos_Squire:1-3,Chaos_Herald:0-2,Chaos_Guard:2-7,Chaos_Jailor:1-4;mincount:5;ta
 - [Chaos_Jailor]({{ 'enemies/chaosjailor.html' | relative_url }})
 
 
-## Redinin the Chaos_Gob's band
+## Redalla the Chaos_Gob's band
 ```
 Chaos_Jailor:3-8,Chaos_Guard:2-7;tags:Army
 ```
@@ -142,7 +143,7 @@ Chaos_Jailor:3-8,Chaos_Guard:2-7;tags:Army
 - [Chaos_Guard]({{ 'enemies/chaosguard.html' | relative_url }})
 
 
-## Redinette the Chaos_Gob's band
+## Redibette the Chaos_Gob's band
 ```
 Chaos_Herald:1-1,Chaos_Guard:3-14;tags:Army
 ```
@@ -153,7 +154,7 @@ Chaos_Herald:1-1,Chaos_Guard:3-14;tags:Army
 - [Chaos_Guard]({{ 'enemies/chaosguard.html' | relative_url }})
 
 
-## Redillin the Chaos_Gob's band
+## Redallette the Chaos_Gob's band
 ```
 Chaos_Jailor:3-8,Chaos_Guard:2-7;tags:Army
 ```

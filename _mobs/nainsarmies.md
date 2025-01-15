@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  @NAME@
+title:  Nains armies
 author: Goblinou
 tags:
 - gobs-and-gods
@@ -10,9 +10,10 @@ toc:  false
 ---
 
 
+
 This page list some mobs you may encounter in Gobs and Gods. It has been auto-generated from our code and contains data to help us better balance the available mobs. 
 
-## Naniroux the Undertaker's band
+## Nanibette the Undertaker's band
 ```
 Undertaker_GrandMaster_Nains:1-1,DwarfCaptain:1-1,Centaur:7-11,DwarfGunner:3-5,DwarfLancer:4-7,DwarfWarrior:1-2,DwarfShooter:1-2,Banker_Expert_Nains:1-3,IceSpider:1-3;tags:Army;factions:Nains
 ```
@@ -30,7 +31,7 @@ Undertaker_GrandMaster_Nains:1-1,DwarfCaptain:1-1,Centaur:7-11,DwarfGunner:3-5,D
 - [IceSpider]({{ 'enemies/icespider.html' | relative_url }})
 
 
-## Nanalli the Dwarf's band
+## Nanoubette the Dwarf's band
 ```
 DwarfCaptain:1-1,Centaur:4-7,DwarfGunner:1-4,DwarfWarrior:2-7,DwarfLancer:2-7,DwarfShooter:2-7,Banker_Expert_Nains:0-1,IceSpider:0-1;tags:Army;factions:Nains
 ```
@@ -47,7 +48,7 @@ DwarfCaptain:1-1,Centaur:4-7,DwarfGunner:1-4,DwarfWarrior:2-7,DwarfLancer:2-7,Dw
 - [IceSpider]({{ 'enemies/icespider.html' | relative_url }})
 
 
-## Nanourin the Undertaker's band
+## Nanillin the Undertaker's band
 ```
 Undertaker_GrandMaster_Nains:1-1,Centaur:4-6,DwarfGunner:2-4,Banker_Expert_Nains:2-4,DwarfWarrior:2-6,DwarfLancer:2-6,DwarfShooter:2-6,IceSpider:0-1;tags:Army;factions:Nains
 ```
@@ -64,7 +65,7 @@ Undertaker_GrandMaster_Nains:1-1,Centaur:4-6,DwarfGunner:2-4,Banker_Expert_Nains
 - [IceSpider]({{ 'enemies/icespider.html' | relative_url }})
 
 
-## Nanillet the Dwarf's band
+## Nanalla the Dwarf's band
 ```
 Centaur:2-3,DwarfGunner:2-3,DwarfWarrior:2-8,DwarfLancer:2-8,DwarfShooter:2-8,Banker_Expert_Nains:1-2,IceSpider:0-1;tags:Army;factions:Nains
 ```
@@ -80,7 +81,7 @@ Centaur:2-3,DwarfGunner:2-3,DwarfWarrior:2-8,DwarfLancer:2-8,DwarfShooter:2-8,Ba
 - [IceSpider]({{ 'enemies/icespider.html' | relative_url }})
 
 
-## Nanara the Dwarf's band
+## Nanira the Dwarf's band
 ```
 Centaur:1-1,DwarfWarrior:4-7,Dwarf:0-1,DwarfLancer:1-4,DwarfShooter:1-4;tags:Army
 ```
@@ -94,7 +95,7 @@ Centaur:1-1,DwarfWarrior:4-7,Dwarf:0-1,DwarfLancer:1-4,DwarfShooter:1-4;tags:Arm
 - [DwarfShooter]({{ 'enemies/dwarfshooter.html' | relative_url }})
 
 
-## Nanari the Dwarf's band
+## Nanoubin the Dwarf's band
 ```
 DwarfGunner:1-1,DwarfShooter:3-6,DwarfWarrior:2-5,Dwarf:0-2,DwarfLancer:1-4;tags:Army
 ```
@@ -108,7 +109,7 @@ DwarfGunner:1-1,DwarfShooter:3-6,DwarfWarrior:2-5,Dwarf:0-2,DwarfLancer:1-4;tags
 - [DwarfLancer]({{ 'enemies/dwarflancer.html' | relative_url }})
 
 
-## Nanibette the Dwarf's band
+## Nanalla the Dwarf's band
 ```
 Banker_Expert_Nains:1-1,DwarfWarrior:2-4,DwarfLancer:2-4,Dwarf:2-4,DwarfShooter:2-4;tags:Army
 ```
@@ -122,7 +123,7 @@ Banker_Expert_Nains:1-1,DwarfWarrior:2-4,DwarfLancer:2-4,Dwarf:2-4,DwarfShooter:
 - [DwarfShooter]({{ 'enemies/dwarfshooter.html' | relative_url }})
 
 
-## Nananette the Dwarf's band
+## Nanoulli the Dwarf's band
 ```
 DwarfWarrior:1-3,DwarfLancer:0-2,Dwarf:2-7,DwarfShooter:1-4;mincount:5;tags:Army
 ```
@@ -135,7 +136,7 @@ DwarfWarrior:1-3,DwarfLancer:0-2,Dwarf:2-7,DwarfShooter:1-4;mincount:5;tags:Army
 - [DwarfShooter]({{ 'enemies/dwarfshooter.html' | relative_url }})
 
 
-## Nanilloux the Dwarf's band
+## Nanarette the Dwarf's band
 ```
 DwarfShooter:3-8,Dwarf:2-7;tags:Army
 ```
@@ -146,7 +147,7 @@ DwarfShooter:3-8,Dwarf:2-7;tags:Army
 - [Dwarf]({{ 'enemies/dwarf.html' | relative_url }})
 
 
-## Nanoubi the Dwarf's band
+## Nanallet the Dwarf's band
 ```
 DwarfLancer:1-1,Dwarf:3-14;tags:Army
 ```
@@ -157,7 +158,7 @@ DwarfLancer:1-1,Dwarf:3-14;tags:Army
 - [Dwarf]({{ 'enemies/dwarf.html' | relative_url }})
 
 
-## Nanaret the Dwarf's band
+## Nanillin the Dwarf's band
 ```
 DwarfShooter:3-8,Dwarf:2-7;tags:Army
 ```

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  @NAME@
+title:  Other mobs
 author: Goblinou
 tags:
 - gobs-and-gods
@@ -10,9 +10,10 @@ toc:  false
 ---
 
 
+
 This page list some mobs you may encounter in Gobs and Gods. It has been auto-generated from our code and contains data to help us better balance the available mobs. 
 
-## Pitoura the Bullorc's pack
+## Pitouna the Bullorc's band
 ```
 Magob:1-1,Bullorc:1-2,Bug:0-4,Green_Slug:0-4,Red_Slug:0-4;mincount:3;tags:Pet,Magob;factions:Gobs
 ```
@@ -26,7 +27,7 @@ Magob:1-1,Bullorc:1-2,Bug:0-4,Green_Slug:0-4,Red_Slug:0-4;mincount:3;tags:Pet,Ma
 - [Red_Slug]({{ 'enemies/redslug.html' | relative_url }})
 
 
-## Sluginoux the Slug's band
+## Slugoura the Slug's band
 ```
 Slug_Brain:1-1,Green_Slug:9-19
 ```
@@ -37,7 +38,7 @@ Slug_Brain:1-1,Green_Slug:9-19
 - [Green_Slug]({{ 'enemies/greenslug.html' | relative_url }})
 
 
-## Slugoullette the Slug's band
+## Slugoubet the Slug's band
 ```
 Slug_Brain:1-1,Red_Slug:11-19
 ```
@@ -48,7 +49,7 @@ Slug_Brain:1-1,Red_Slug:11-19
 - [Red_Slug]({{ 'enemies/redslug.html' | relative_url }})
 
 
-## Slugoubet the Slug's band
+## Slugiroux the Slug's band
 ```
 Slug_Brain:1-1,Froggy_Slug:2-4,Green_Slug:4-8,Red_Slug:4-8;mincount:12
 ```
@@ -61,7 +62,7 @@ Slug_Brain:1-1,Froggy_Slug:2-4,Green_Slug:4-8,Red_Slug:4-8;mincount:12
 - [Red_Slug]({{ 'enemies/redslug.html' | relative_url }})
 
 
-## Slugoulli the Slug's band
+## Slugillette the Slug's band
 ```
 Slug_Brain:3-4,Froggy_Slug:3-6,Green_Slug:5-11,Red_Slug:5-11
 ```
@@ -74,7 +75,7 @@ Slug_Brain:3-4,Froggy_Slug:3-6,Green_Slug:5-11,Red_Slug:5-11
 - [Red_Slug]({{ 'enemies/redslug.html' | relative_url }})
 
 
-## Duduckouni the Duck's band
+## Duduckarin the Duck's band
 ```
 BabyDuck:1-1,HornedDuck:2-29;landscapes:Snow
 ```
@@ -85,7 +86,7 @@ BabyDuck:1-1,HornedDuck:2-29;landscapes:Snow
 - [HornedDuck]({{ 'enemies/hornedduck.html' | relative_url }})
 
 
-## Impouboux the Imp's band
+## Impanin the Imp's band
 ```
 Imp:2-15,Imp_Gunner:2-15;mincount:5
 ```
@@ -96,7 +97,7 @@ Imp:2-15,Imp_Gunner:2-15;mincount:5
 - [Imp_Gunner]({{ 'enemies/impgunner.html' | relative_url }})
 
 
-## Camenballi the Cheese's band
+## Camenboulla the Cheese's band
 ```
 CamemBeast:1-16,Caminibeast:0-15
 ```
@@ -107,7 +108,7 @@ CamemBeast:1-16,Caminibeast:0-15
 - [Caminibeast]({{ 'enemies/caminibeast.html' | relative_url }})
 
 
-## Emmentouba the Cheese's band
+## Emmentounoux the Cheese's band
 ```
 CamemBehemoth:1-1,CamemBeast:0-15,Caminibeast:0-15
 ```
@@ -119,7 +120,7 @@ CamemBehemoth:1-1,CamemBeast:0-15,Caminibeast:0-15
 - [Caminibeast]({{ 'enemies/caminibeast.html' | relative_url }})
 
 
-## Emmentallet the Cheese's band
+## Emmentara the Cheese's band
 ```
 Older_Cheese_Elemental:1-1,Cheese_Elemental:0-15,Minor_Cheese_Elemental:0-15
 ```
@@ -131,7 +132,7 @@ Older_Cheese_Elemental:1-1,Cheese_Elemental:0-15,Minor_Cheese_Elemental:0-15
 - [Minor_Cheese_Elemental]({{ 'enemies/minorcheeseelemental.html' | relative_url }})
 
 
-## Duckaret the Duck's band
+## Duckoullet the Duck's band
 ```
 SkeletonGnap:3-10,SkeletonDuck:3-10,SkeletonBullorc:3-10
 ```
@@ -143,7 +144,7 @@ SkeletonGnap:3-10,SkeletonDuck:3-10,SkeletonBullorc:3-10
 - [SkeletonBullorc]({{ 'enemies/skeletonbullorc.html' | relative_url }})
 
 
-## Centallet the Sphinx's band
+## Centarin the Sphinx's band
 ```
 ElderSphinx:1-1,Sphinx:0-24,WingedSphinx:0-6
 ```

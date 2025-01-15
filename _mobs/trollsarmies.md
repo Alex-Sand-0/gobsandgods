@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  @NAME@
+title:  Trolls armies
 author: Goblinou
 tags:
 - gobs-and-gods
@@ -10,9 +10,10 @@ toc:  false
 ---
 
 
+
 This page list some mobs you may encounter in Gobs and Gods. It has been auto-generated from our code and contains data to help us better balance the available mobs. 
 
-## Trollanoux the Executioner's band
+## Trollillet the Executioner's band
 ```
 Butchurgeon_GrandMaster_Trolls:1-1,Executioner_GrandMaster_Trolls:1-1,Squire_Master_Trolls:7-11,Archer_Master_Trolls:3-5,Spearman_Expert_Trolls:4-7,Squire_Expert_Trolls:1-2,Archer_Expert_Trolls:1-2,Undertaker_Master_Trolls:1-3,HornedDuck:1-3;tags:Army;factions:Trolls
 ```
@@ -30,7 +31,7 @@ Butchurgeon_GrandMaster_Trolls:1-1,Executioner_GrandMaster_Trolls:1-1,Squire_Mas
 - [HornedDuck]({{ 'enemies/hornedduck.html' | relative_url }})
 
 
-## Trollani the Executioner's band
+## Trollabi the Executioner's band
 ```
 Executioner_GrandMaster_Trolls:1-1,Squire_Master_Trolls:4-7,Archer_Master_Trolls:1-4,Squire_Expert_Trolls:2-7,Spearman_Expert_Trolls:2-7,Archer_Expert_Trolls:2-7,Undertaker_Master_Trolls:0-1,HornedDuck:0-1;tags:Army;factions:Trolls
 ```
@@ -47,7 +48,7 @@ Executioner_GrandMaster_Trolls:1-1,Squire_Master_Trolls:4-7,Archer_Master_Trolls
 - [HornedDuck]({{ 'enemies/hornedduck.html' | relative_url }})
 
 
-## Trollinet the Butchurgeon's band
+## Trollouri the Butchurgeon's band
 ```
 Butchurgeon_GrandMaster_Trolls:1-1,Squire_Master_Trolls:4-6,Archer_Master_Trolls:2-4,Undertaker_Master_Trolls:2-4,Squire_Expert_Trolls:2-6,Spearman_Expert_Trolls:2-6,Archer_Expert_Trolls:2-6,HornedDuck:0-1;tags:Army;factions:Trolls
 ```
@@ -64,7 +65,7 @@ Butchurgeon_GrandMaster_Trolls:1-1,Squire_Master_Trolls:4-6,Archer_Master_Trolls
 - [HornedDuck]({{ 'enemies/hornedduck.html' | relative_url }})
 
 
-## Trollira the Squire's band
+## Trollibin the Squire's band
 ```
 Squire_Master_Trolls:2-3,Archer_Master_Trolls:2-3,Squire_Expert_Trolls:2-8,Spearman_Expert_Trolls:2-8,Archer_Expert_Trolls:2-8,Undertaker_Master_Trolls:1-2,HornedDuck:0-1;tags:Army;factions:Trolls
 ```
@@ -80,7 +81,7 @@ Squire_Master_Trolls:2-3,Archer_Master_Trolls:2-3,Squire_Expert_Trolls:2-8,Spear
 - [HornedDuck]({{ 'enemies/hornedduck.html' | relative_url }})
 
 
-## Trollounoux the Squire's band
+## Trolliret the Squire's band
 ```
 Squire_Master_Trolls:1-1,Squire_Expert_Trolls:4-7,Squire_Apprentice_Trolls:0-1,Spearman_Expert_Trolls:1-4,Archer_Expert_Trolls:1-4;tags:Army
 ```
@@ -94,7 +95,7 @@ Squire_Master_Trolls:1-1,Squire_Expert_Trolls:4-7,Squire_Apprentice_Trolls:0-1,S
 - [Archer_Expert_Trolls]({{ 'enemies/archerexperttrolls.html' | relative_url }})
 
 
-## Trollanet the Archer's band
+## Trolloullet the Archer's band
 ```
 Archer_Master_Trolls:1-1,Archer_Expert_Trolls:3-6,Squire_Expert_Trolls:2-5,Squire_Apprentice_Trolls:0-2,Spearman_Expert_Trolls:1-4;tags:Army
 ```
@@ -108,7 +109,7 @@ Archer_Master_Trolls:1-1,Archer_Expert_Trolls:3-6,Squire_Expert_Trolls:2-5,Squir
 - [Spearman_Expert_Trolls]({{ 'enemies/spearmanexperttrolls.html' | relative_url }})
 
 
-## Trollounin the Undertaker's band
+## Trollibet the Undertaker's band
 ```
 Undertaker_Master_Trolls:1-1,Squire_Expert_Trolls:2-4,Spearman_Expert_Trolls:2-4,Squire_Apprentice_Trolls:2-4,Archer_Expert_Trolls:2-4;tags:Army
 ```
@@ -122,7 +123,7 @@ Undertaker_Master_Trolls:1-1,Squire_Expert_Trolls:2-4,Spearman_Expert_Trolls:2-4
 - [Archer_Expert_Trolls]({{ 'enemies/archerexperttrolls.html' | relative_url }})
 
 
-## Trollalloux the Squire's band
+## Trollira the Squire's band
 ```
 Squire_Expert_Trolls:1-3,Spearman_Expert_Trolls:0-2,Squire_Apprentice_Trolls:2-7,Archer_Expert_Trolls:1-4;mincount:5;tags:Army
 ```
@@ -135,7 +136,7 @@ Squire_Expert_Trolls:1-3,Spearman_Expert_Trolls:0-2,Squire_Apprentice_Trolls:2-7
 - [Archer_Expert_Trolls]({{ 'enemies/archerexperttrolls.html' | relative_url }})
 
 
-## Trollallin the Archer's band
+## Trollanette the Archer's band
 ```
 Archer_Expert_Trolls:3-8,Squire_Apprentice_Trolls:2-7;tags:Army
 ```
@@ -146,7 +147,7 @@ Archer_Expert_Trolls:3-8,Squire_Apprentice_Trolls:2-7;tags:Army
 - [Squire_Apprentice_Trolls]({{ 'enemies/squireapprenticetrolls.html' | relative_url }})
 
 
-## Trollini the Spearman's band
+## Trollarin the Spearman's band
 ```
 Spearman_Expert_Trolls:1-1,Squire_Apprentice_Trolls:3-14;tags:Army
 ```
@@ -157,7 +158,7 @@ Spearman_Expert_Trolls:1-1,Squire_Apprentice_Trolls:3-14;tags:Army
 - [Squire_Apprentice_Trolls]({{ 'enemies/squireapprenticetrolls.html' | relative_url }})
 
 
-## Trollari the Archer's band
+## Trollilloux the Archer's band
 ```
 Archer_Expert_Trolls:3-8,Squire_Apprentice_Trolls:2-7;tags:Army
 ```

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  @NAME@
+title:  Trolls brigands
 author: Goblinou
 tags:
 - gobs-and-gods
@@ -10,9 +10,10 @@ toc:  false
 ---
 
 
+
 This page list some mobs you may encounter in Gobs and Gods. It has been auto-generated from our code and contains data to help us better balance the available mobs. 
 
-## Trollalla the Thug's band
+## Trollira the Thug's band
 ```
 Butchurgeon_GrandMaster_Trolls:1-1,Thug_GrandMaster_Trolls:1-1,Thug_Master_Trolls:7-11,Poacher_Master_Trolls:3-5,Jailor_Expert_Trolls:4-7,Thug_Expert_Trolls:1-2,Poacher_Expert_Trolls:1-2,Undertaker_Master_Trolls:1-3,HornedDuck:1-3;tags:Brigand;factions:Trolls
 ```
@@ -30,7 +31,7 @@ Butchurgeon_GrandMaster_Trolls:1-1,Thug_GrandMaster_Trolls:1-1,Thug_Master_Troll
 - [HornedDuck]({{ 'enemies/hornedduck.html' | relative_url }})
 
 
-## Trollani the Thug's band
+## Trollina the Thug's band
 ```
 Thug_GrandMaster_Trolls:1-1,Thug_Master_Trolls:4-7,Poacher_Master_Trolls:1-4,Thug_Expert_Trolls:2-7,Jailor_Expert_Trolls:2-7,Poacher_Expert_Trolls:2-7,Undertaker_Master_Trolls:0-1,HornedDuck:0-1;tags:Brigand;factions:Trolls
 ```
@@ -47,7 +48,7 @@ Thug_GrandMaster_Trolls:1-1,Thug_Master_Trolls:4-7,Poacher_Master_Trolls:1-4,Thu
 - [HornedDuck]({{ 'enemies/hornedduck.html' | relative_url }})
 
 
-## Trollounette the Butchurgeon's band
+## Trollilla the Butchurgeon's band
 ```
 Butchurgeon_GrandMaster_Trolls:1-1,Thug_Master_Trolls:4-6,Poacher_Master_Trolls:2-4,Undertaker_Master_Trolls:2-4,Thug_Expert_Trolls:2-6,Jailor_Expert_Trolls:2-6,Poacher_Expert_Trolls:2-6,HornedDuck:0-1;tags:Brigand;factions:Trolls
 ```
@@ -64,7 +65,7 @@ Butchurgeon_GrandMaster_Trolls:1-1,Thug_Master_Trolls:4-6,Poacher_Master_Trolls:
 - [HornedDuck]({{ 'enemies/hornedduck.html' | relative_url }})
 
 
-## Trollounette the Thug's band
+## Trollini the Thug's band
 ```
 Thug_Master_Trolls:2-3,Poacher_Master_Trolls:2-3,Thug_Expert_Trolls:2-8,Jailor_Expert_Trolls:2-8,Poacher_Expert_Trolls:2-8,Undertaker_Master_Trolls:1-2,HornedDuck:0-1;tags:Brigand;factions:Trolls
 ```
@@ -80,7 +81,7 @@ Thug_Master_Trolls:2-3,Poacher_Master_Trolls:2-3,Thug_Expert_Trolls:2-8,Jailor_E
 - [HornedDuck]({{ 'enemies/hornedduck.html' | relative_url }})
 
 
-## Trolloulli the Thug's band
+## Trollini the Thug's band
 ```
 Thug_Master_Trolls:1-1,Thug_Expert_Trolls:4-7,Thug_Apprentice_Trolls:0-1,Jailor_Expert_Trolls:1-4,Poacher_Expert_Trolls:1-4;tags:Brigand
 ```
@@ -94,7 +95,7 @@ Thug_Master_Trolls:1-1,Thug_Expert_Trolls:4-7,Thug_Apprentice_Trolls:0-1,Jailor_
 - [Poacher_Expert_Trolls]({{ 'enemies/poacherexperttrolls.html' | relative_url }})
 
 
-## Trollouna the Thug's band
+## Trollourin the Thug's band
 ```
 Poacher_Master_Trolls:1-1,Poacher_Expert_Trolls:3-6,Thug_Expert_Trolls:2-5,Thug_Apprentice_Trolls:0-2,Jailor_Expert_Trolls:1-4;tags:Brigand
 ```
@@ -108,7 +109,7 @@ Poacher_Master_Trolls:1-1,Poacher_Expert_Trolls:3-6,Thug_Expert_Trolls:2-5,Thug_
 - [Jailor_Expert_Trolls]({{ 'enemies/jailorexperttrolls.html' | relative_url }})
 
 
-## Trollillet the Undertaker's band
+## Trollallin the Undertaker's band
 ```
 Undertaker_Master_Trolls:1-1,Thug_Expert_Trolls:2-4,Jailor_Expert_Trolls:2-4,Thug_Apprentice_Trolls:2-4,Poacher_Expert_Trolls:2-4;tags:Brigand
 ```
@@ -122,7 +123,7 @@ Undertaker_Master_Trolls:1-1,Thug_Expert_Trolls:2-4,Jailor_Expert_Trolls:2-4,Thu
 - [Poacher_Expert_Trolls]({{ 'enemies/poacherexperttrolls.html' | relative_url }})
 
 
-## Trolloubi the Thug's band
+## Trollouret the Thug's band
 ```
 Thug_Expert_Trolls:1-3,Jailor_Expert_Trolls:0-2,Thug_Apprentice_Trolls:2-7,Poacher_Expert_Trolls:1-4;mincount:5;tags:Brigand
 ```
@@ -135,7 +136,7 @@ Thug_Expert_Trolls:1-3,Jailor_Expert_Trolls:0-2,Thug_Apprentice_Trolls:2-7,Poach
 - [Poacher_Expert_Trolls]({{ 'enemies/poacherexperttrolls.html' | relative_url }})
 
 
-## Trollarin the Poacher's band
+## Trollounette the Poacher's band
 ```
 Poacher_Expert_Trolls:3-8,Thug_Apprentice_Trolls:2-7;tags:Brigand
 ```
@@ -146,7 +147,7 @@ Poacher_Expert_Trolls:3-8,Thug_Apprentice_Trolls:2-7;tags:Brigand
 - [Thug_Apprentice_Trolls]({{ 'enemies/thugapprenticetrolls.html' | relative_url }})
 
 
-## Trollanet the Jailor's band
+## Trollirette the Jailor's band
 ```
 Jailor_Expert_Trolls:1-1,Thug_Apprentice_Trolls:3-14;tags:Brigand
 ```
@@ -157,7 +158,7 @@ Jailor_Expert_Trolls:1-1,Thug_Apprentice_Trolls:3-14;tags:Brigand
 - [Thug_Apprentice_Trolls]({{ 'enemies/thugapprenticetrolls.html' | relative_url }})
 
 
-## Trolloubin the Poacher's band
+## Trolliroux the Poacher's band
 ```
 Poacher_Expert_Trolls:3-8,Thug_Apprentice_Trolls:2-7;tags:Brigand
 ```
@@ -168,7 +169,7 @@ Poacher_Expert_Trolls:3-8,Thug_Apprentice_Trolls:2-7;tags:Brigand
 - [Thug_Apprentice_Trolls]({{ 'enemies/thugapprenticetrolls.html' | relative_url }})
 
 
-## Trollibet the Jailor's pack
+## Trollallet the Jailor's pack
 ```
 Jailor_Expert_Trolls:1-1,HornedDuck:3-5;tags:Brigand;factions:Trolls
 ```
@@ -179,7 +180,7 @@ Jailor_Expert_Trolls:1-1,HornedDuck:3-5;tags:Brigand;factions:Trolls
 - [HornedDuck]({{ 'enemies/hornedduck.html' | relative_url }})
 
 
-## Trolloullette the Undertaker's pack
+## Trollari the Undertaker's pack
 ```
 Undertaker_Master_Trolls:1-1,HornedDuck:5-7;tags:Brigand;factions:Trolls
 ```
@@ -190,7 +191,7 @@ Undertaker_Master_Trolls:1-1,HornedDuck:5-7;tags:Brigand;factions:Trolls
 - [HornedDuck]({{ 'enemies/hornedduck.html' | relative_url }})
 
 
-## Trollouboux the Thug's gang
+## Trollinoux the Thug's gang
 ```
 Thug_Expert_Trolls:1-1,HornedDuck:1-3;tags:Brigand;factions:Trolls
 ```

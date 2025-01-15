@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  @NAME@
+title:  Minos brigands
 author: Goblinou
 tags:
 - gobs-and-gods
@@ -10,9 +10,10 @@ toc:  false
 ---
 
 
+
 This page list some mobs you may encounter in Gobs and Gods. It has been auto-generated from our code and contains data to help us better balance the available mobs. 
 
-## MiMinoror the Thug's band
+## LiMinoxia the Thug's band
 ```
 Butchurgeon_GrandMaster_Minos:1-1,Thug_GrandMaster_Minos:1-1,Thug_Master_Minos:7-11,Poacher_Master_Minos:3-5,Jailor_Expert_Minos:4-7,Thug_Expert_Minos:1-2,Poacher_Expert_Minos:1-2,Undertaker_Master_Minos:1-3,HornedDuck:1-3;tags:Brigand;factions:Minos
 ```
@@ -30,7 +31,7 @@ Butchurgeon_GrandMaster_Minos:1-1,Thug_GrandMaster_Minos:1-1,Thug_Master_Minos:7
 - [HornedDuck]({{ 'enemies/hornedduck.html' | relative_url }})
 
 
-## TiMinoxaur the Thug's band
+## NoMinollus the Thug's band
 ```
 Thug_GrandMaster_Minos:1-1,Thug_Master_Minos:4-7,Poacher_Master_Minos:1-4,Thug_Expert_Minos:2-7,Jailor_Expert_Minos:2-7,Poacher_Expert_Minos:2-7,Undertaker_Master_Minos:0-1,HornedDuck:0-1;tags:Brigand;factions:Minos
 ```
@@ -47,7 +48,7 @@ Thug_GrandMaster_Minos:1-1,Thug_Master_Minos:4-7,Poacher_Master_Minos:1-4,Thug_E
 - [HornedDuck]({{ 'enemies/hornedduck.html' | relative_url }})
 
 
-## TiMinorie the Butchurgeon's band
+## NoMinozius the Butchurgeon's band
 ```
 Butchurgeon_GrandMaster_Minos:1-1,Thug_Master_Minos:4-6,Poacher_Master_Minos:2-4,Undertaker_Master_Minos:2-4,Thug_Expert_Minos:2-6,Jailor_Expert_Minos:2-6,Poacher_Expert_Minos:2-6,HornedDuck:0-1;tags:Brigand;factions:Minos
 ```
@@ -64,7 +65,7 @@ Butchurgeon_GrandMaster_Minos:1-1,Thug_Master_Minos:4-6,Poacher_Master_Minos:2-4
 - [HornedDuck]({{ 'enemies/hornedduck.html' | relative_url }})
 
 
-## NoMinoria the Undertaker's band
+## TiMinoraur the Undertaker's band
 ```
 Thug_Master_Minos:2-3,Poacher_Master_Minos:2-3,Thug_Expert_Minos:2-8,Jailor_Expert_Minos:2-8,Poacher_Expert_Minos:2-8,Undertaker_Master_Minos:1-2,HornedDuck:0-1;tags:Brigand;factions:Minos
 ```
@@ -80,7 +81,7 @@ Thug_Master_Minos:2-3,Poacher_Master_Minos:2-3,Thug_Expert_Minos:2-8,Jailor_Expe
 - [HornedDuck]({{ 'enemies/hornedduck.html' | relative_url }})
 
 
-## MaMinottia the Thug's band
+## MiMinobor the Thug's band
 ```
 Thug_Master_Minos:1-1,Thug_Expert_Minos:4-7,Thug_Apprentice_Minos:0-1,Jailor_Expert_Minos:1-4,Poacher_Expert_Minos:1-4;tags:Brigand
 ```
@@ -94,7 +95,7 @@ Thug_Master_Minos:1-1,Thug_Expert_Minos:4-7,Thug_Apprentice_Minos:0-1,Jailor_Exp
 - [Poacher_Expert_Minos]({{ 'enemies/poacherexpertminos.html' | relative_url }})
 
 
-## ImMinobus the Thug's band
+## TerMinoxiette the Thug's band
 ```
 Poacher_Master_Minos:1-1,Poacher_Expert_Minos:3-6,Thug_Expert_Minos:2-5,Thug_Apprentice_Minos:0-2,Jailor_Expert_Minos:1-4;tags:Brigand
 ```
@@ -108,7 +109,7 @@ Poacher_Master_Minos:1-1,Poacher_Expert_Minos:3-6,Thug_Expert_Minos:2-5,Thug_App
 - [Jailor_Expert_Minos]({{ 'enemies/jailorexpertminos.html' | relative_url }})
 
 
-## ImMinonaur the Undertaker's band
+## ImMinobus the Undertaker's band
 ```
 Undertaker_Master_Minos:1-1,Thug_Expert_Minos:2-4,Jailor_Expert_Minos:2-4,Thug_Apprentice_Minos:2-4,Poacher_Expert_Minos:2-4;tags:Brigand
 ```
@@ -122,7 +123,7 @@ Undertaker_Master_Minos:1-1,Thug_Expert_Minos:2-4,Jailor_Expert_Minos:2-4,Thug_A
 - [Poacher_Expert_Minos]({{ 'enemies/poacherexpertminos.html' | relative_url }})
 
 
-## NoMinottia the Thug's band
+## NoMinoxus the Thug's band
 ```
 Thug_Expert_Minos:1-3,Jailor_Expert_Minos:0-2,Thug_Apprentice_Minos:2-7,Poacher_Expert_Minos:1-4;mincount:5;tags:Brigand
 ```
@@ -135,7 +136,7 @@ Thug_Expert_Minos:1-3,Jailor_Expert_Minos:0-2,Thug_Apprentice_Minos:2-7,Poacher_
 - [Poacher_Expert_Minos]({{ 'enemies/poacherexpertminos.html' | relative_url }})
 
 
-## MaMinorie the Thug's band
+## TiMinollor the Thug's band
 ```
 Poacher_Expert_Minos:3-8,Thug_Apprentice_Minos:2-7;tags:Brigand
 ```
@@ -146,7 +147,7 @@ Poacher_Expert_Minos:3-8,Thug_Apprentice_Minos:2-7;tags:Brigand
 - [Thug_Apprentice_Minos]({{ 'enemies/thugapprenticeminos.html' | relative_url }})
 
 
-## LiMinobor the Jailor's band
+## LiMinorius the Jailor's band
 ```
 Jailor_Expert_Minos:1-1,Thug_Apprentice_Minos:3-14;tags:Brigand
 ```
@@ -157,7 +158,7 @@ Jailor_Expert_Minos:1-1,Thug_Apprentice_Minos:3-14;tags:Brigand
 - [Thug_Apprentice_Minos]({{ 'enemies/thugapprenticeminos.html' | relative_url }})
 
 
-## LiMinozaur the Thug's band
+## TerMinottus the Thug's band
 ```
 Poacher_Expert_Minos:3-8,Thug_Apprentice_Minos:2-7;tags:Brigand
 ```
@@ -168,7 +169,7 @@ Poacher_Expert_Minos:3-8,Thug_Apprentice_Minos:2-7;tags:Brigand
 - [Thug_Apprentice_Minos]({{ 'enemies/thugapprenticeminos.html' | relative_url }})
 
 
-## TerMinoniette the Jailor's pack
+## LiMinottor the Jailor's pack
 ```
 Jailor_Expert_Minos:1-1,HornedDuck:3-5;tags:Brigand;factions:Minos
 ```
@@ -179,7 +180,7 @@ Jailor_Expert_Minos:1-1,HornedDuck:3-5;tags:Brigand;factions:Minos
 - [HornedDuck]({{ 'enemies/hornedduck.html' | relative_url }})
 
 
-## ImMinonaur the Undertaker's pack
+## MaMinorus the Undertaker's pack
 ```
 Undertaker_Master_Minos:1-1,HornedDuck:5-7;tags:Brigand;factions:Minos
 ```
@@ -190,7 +191,7 @@ Undertaker_Master_Minos:1-1,HornedDuck:5-7;tags:Brigand;factions:Minos
 - [HornedDuck]({{ 'enemies/hornedduck.html' | relative_url }})
 
 
-## LiMinottus the Thug's gang
+## TerMinozus the Thug's gang
 ```
 Thug_Expert_Minos:1-1,HornedDuck:1-3;tags:Brigand;factions:Minos
 ```

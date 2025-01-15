@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  @NAME@
+title:  Orcs armies
 author: Goblinou
 tags:
 - gobs-and-gods
@@ -10,9 +10,10 @@ toc:  false
 ---
 
 
+
 This page list some mobs you may encounter in Gobs and Gods. It has been auto-generated from our code and contains data to help us better balance the available mobs. 
 
-## Orcillette the Orc's band
+## Orcouna the Orc's band
 ```
 Butchurgeon_Master_Orcs:1-1,OrcSwordMaster:1-1,OrcWarrior:7-11,Engineer_Expert_Orcs:3-5,Guard_Apprentice_Orcs:4-7,OrcSkinner:1-2,Engineer_Apprentice_Orcs:1-2,Undertaker_Expert_Orcs:1-3,WhiteBullorc:1-3;tags:Army;factions:Orcs
 ```
@@ -30,7 +31,7 @@ Butchurgeon_Master_Orcs:1-1,OrcSwordMaster:1-1,OrcWarrior:7-11,Engineer_Expert_O
 - [WhiteBullorc]({{ 'enemies/whitebullorc.html' | relative_url }})
 
 
-## Orcilloux the Orc's band
+## Orcallet the Orc's band
 ```
 OrcSwordMaster:1-1,OrcWarrior:4-7,Engineer_Expert_Orcs:1-4,OrcSkinner:2-7,Guard_Apprentice_Orcs:2-7,Engineer_Apprentice_Orcs:2-7,Undertaker_Expert_Orcs:0-1,WhiteBullorc:0-1;tags:Army;factions:Orcs
 ```
@@ -47,7 +48,7 @@ OrcSwordMaster:1-1,OrcWarrior:4-7,Engineer_Expert_Orcs:1-4,OrcSkinner:2-7,Guard_
 - [WhiteBullorc]({{ 'enemies/whitebullorc.html' | relative_url }})
 
 
-## Orcaba the Butchurgeon's band
+## Orciroux the Butchurgeon's band
 ```
 Butchurgeon_Master_Orcs:1-1,OrcWarrior:4-6,Engineer_Expert_Orcs:2-4,Undertaker_Expert_Orcs:2-4,OrcSkinner:2-6,Guard_Apprentice_Orcs:2-6,Engineer_Apprentice_Orcs:2-6,WhiteBullorc:0-1;tags:Army;factions:Orcs
 ```
@@ -64,7 +65,7 @@ Butchurgeon_Master_Orcs:1-1,OrcWarrior:4-6,Engineer_Expert_Orcs:2-4,Undertaker_E
 - [WhiteBullorc]({{ 'enemies/whitebullorc.html' | relative_url }})
 
 
-## Orcouri the Orc's band
+## Orciri the Orc's band
 ```
 OrcWarrior:2-3,Engineer_Expert_Orcs:2-3,OrcSkinner:2-8,Guard_Apprentice_Orcs:2-8,Engineer_Apprentice_Orcs:2-8,Undertaker_Expert_Orcs:1-2,WhiteBullorc:0-1;tags:Army;factions:Orcs
 ```
@@ -80,7 +81,7 @@ OrcWarrior:2-3,Engineer_Expert_Orcs:2-3,OrcSkinner:2-8,Guard_Apprentice_Orcs:2-8
 - [WhiteBullorc]({{ 'enemies/whitebullorc.html' | relative_url }})
 
 
-## Orcoulla the Orc's band
+## Orcinette the Orc's band
 ```
 OrcWarrior:1-1,OrcSkinner:4-7,Smith_Apprentice_Orcs:0-1,Guard_Apprentice_Orcs:1-4,Engineer_Apprentice_Orcs:1-4;tags:Army
 ```
@@ -94,7 +95,7 @@ OrcWarrior:1-1,OrcSkinner:4-7,Smith_Apprentice_Orcs:0-1,Guard_Apprentice_Orcs:1-
 - [Engineer_Apprentice_Orcs]({{ 'enemies/engineerapprenticeorcs.html' | relative_url }})
 
 
-## Orcouri the Orc's band
+## Orcounet the Orc's band
 ```
 Engineer_Expert_Orcs:1-1,Engineer_Apprentice_Orcs:3-6,OrcSkinner:2-5,Smith_Apprentice_Orcs:0-2,Guard_Apprentice_Orcs:1-4;tags:Army
 ```
@@ -108,7 +109,7 @@ Engineer_Expert_Orcs:1-1,Engineer_Apprentice_Orcs:3-6,OrcSkinner:2-5,Smith_Appre
 - [Guard_Apprentice_Orcs]({{ 'enemies/guardapprenticeorcs.html' | relative_url }})
 
 
-## Orcoullet the Undertaker's band
+## Orcoullette the Undertaker's band
 ```
 Undertaker_Expert_Orcs:1-1,OrcSkinner:2-4,Guard_Apprentice_Orcs:2-4,Smith_Apprentice_Orcs:2-4,Engineer_Apprentice_Orcs:2-4;tags:Army
 ```
@@ -122,7 +123,7 @@ Undertaker_Expert_Orcs:1-1,OrcSkinner:2-4,Guard_Apprentice_Orcs:2-4,Smith_Appren
 - [Engineer_Apprentice_Orcs]({{ 'enemies/engineerapprenticeorcs.html' | relative_url }})
 
 
-## Orcanoux the Orc's band
+## Orcanet the Orc's band
 ```
 OrcSkinner:1-3,Guard_Apprentice_Orcs:0-2,Smith_Apprentice_Orcs:2-7,Engineer_Apprentice_Orcs:1-4;mincount:5;tags:Army
 ```
@@ -135,7 +136,7 @@ OrcSkinner:1-3,Guard_Apprentice_Orcs:0-2,Smith_Apprentice_Orcs:2-7,Engineer_Appr
 - [Engineer_Apprentice_Orcs]({{ 'enemies/engineerapprenticeorcs.html' | relative_url }})
 
 
-## Orcira the Smith's band
+## Orcinin the Smith's band
 ```
 Engineer_Apprentice_Orcs:3-8,Smith_Apprentice_Orcs:2-7;tags:Army
 ```
@@ -146,7 +147,7 @@ Engineer_Apprentice_Orcs:3-8,Smith_Apprentice_Orcs:2-7;tags:Army
 - [Smith_Apprentice_Orcs]({{ 'enemies/smithapprenticeorcs.html' | relative_url }})
 
 
-## Orcalla the Smith's band
+## Orcilloux the Smith's band
 ```
 Guard_Apprentice_Orcs:1-1,Smith_Apprentice_Orcs:3-14;tags:Army
 ```
@@ -157,7 +158,7 @@ Guard_Apprentice_Orcs:1-1,Smith_Apprentice_Orcs:3-14;tags:Army
 - [Smith_Apprentice_Orcs]({{ 'enemies/smithapprenticeorcs.html' | relative_url }})
 
 
-## Orcoulloux the Smith's band
+## Orcouri the Smith's band
 ```
 Engineer_Apprentice_Orcs:3-8,Smith_Apprentice_Orcs:2-7;tags:Army
 ```

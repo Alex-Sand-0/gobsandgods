@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  @NAME@
+title:  Gobs armies
 author: Goblinou
 tags:
 - gobs-and-gods
@@ -10,9 +10,10 @@ toc:  false
 ---
 
 
+
 This page list some mobs you may encounter in Gobs and Gods. It has been auto-generated from our code and contains data to help us better balance the available mobs. 
 
-## Gobirin the Gob's band
+## Goboullin the Gob's band
 ```
 BigMagob:1-1,GobCaptain:8-12,Engineer_Expert:3-5,GobLancer:4-7,GobGuard:1-2,GobArbaletier:1-2,Magob:1-3,Bug:1-3;tags:Army;factions:Gobs
 ```
@@ -29,7 +30,7 @@ BigMagob:1-1,GobCaptain:8-12,Engineer_Expert:3-5,GobLancer:4-7,GobGuard:1-2,GobA
 - [Bug]({{ 'enemies/bug.html' | relative_url }})
 
 
-## Gobiret the Gob's band
+## Goboulloux the Gob's band
 ```
 GobCaptain:5-8,Engineer_Expert:1-4,GobGuard:2-7,GobLancer:2-7,GobArbaletier:2-7,Magob:0-1,Bug:0-1;tags:Army;factions:Gobs
 ```
@@ -45,7 +46,7 @@ GobCaptain:5-8,Engineer_Expert:1-4,GobGuard:2-7,GobLancer:2-7,GobArbaletier:2-7,
 - [Bug]({{ 'enemies/bug.html' | relative_url }})
 
 
-## Gobabin the Gob's band
+## Goballette the Gob's band
 ```
 BigMagob:1-1,GobCaptain:4-6,Engineer_Expert:2-4,Magob:2-4,GobGuard:2-6,GobLancer:2-6,GobArbaletier:2-6,Bug:0-1;tags:Army;factions:Gobs
 ```
@@ -62,7 +63,7 @@ BigMagob:1-1,GobCaptain:4-6,Engineer_Expert:2-4,Magob:2-4,GobGuard:2-6,GobLancer
 - [Bug]({{ 'enemies/bug.html' | relative_url }})
 
 
-## Gobibette the Gob's band
+## Gobana the Gob's band
 ```
 GobCaptain:2-3,Engineer_Expert:2-3,GobGuard:2-8,GobLancer:2-8,GobArbaletier:2-8,Magob:1-2,Bug:0-1;tags:Army;factions:Gobs
 ```
@@ -78,7 +79,7 @@ GobCaptain:2-3,Engineer_Expert:2-3,GobGuard:2-8,GobLancer:2-8,GobArbaletier:2-8,
 - [Bug]({{ 'enemies/bug.html' | relative_url }})
 
 
-## Gobourin the Gob's band
+## Goboubin the Gob's band
 ```
 GobCaptain:1-1,GobGuard:4-7,Gob_thug:0-1,GobLancer:1-4,GobArbaletier:1-4;tags:Army
 ```
@@ -92,7 +93,7 @@ GobCaptain:1-1,GobGuard:4-7,Gob_thug:0-1,GobLancer:1-4,GobArbaletier:1-4;tags:Ar
 - [GobArbaletier]({{ 'enemies/gobarbaletier.html' | relative_url }})
 
 
-## Gobiboux the Engineer's band
+## Gobillin the Engineer's band
 ```
 Engineer_Expert:1-1,GobArbaletier:3-6,GobGuard:2-5,Gob_thug:0-2,GobLancer:1-4;tags:Army
 ```
@@ -106,7 +107,7 @@ Engineer_Expert:1-1,GobArbaletier:3-6,GobGuard:2-5,Gob_thug:0-2,GobLancer:1-4;ta
 - [GobLancer]({{ 'enemies/goblancer.html' | relative_url }})
 
 
-## Gobari the Gob's band
+## Gobaroux the Gob's band
 ```
 Magob:1-1,GobGuard:2-4,GobLancer:2-4,Gob_thug:2-4,GobArbaletier:2-4;tags:Army
 ```
@@ -120,7 +121,7 @@ Magob:1-1,GobGuard:2-4,GobLancer:2-4,Gob_thug:2-4,GobArbaletier:2-4;tags:Army
 - [GobArbaletier]({{ 'enemies/gobarbaletier.html' | relative_url }})
 
 
-## Gobibet the Gob's band
+## Gobouba the Gob's band
 ```
 GobGuard:1-3,GobLancer:0-2,Gob_thug:2-7,GobArbaletier:1-4;mincount:5;tags:Army
 ```
@@ -133,7 +134,7 @@ GobGuard:1-3,GobLancer:0-2,Gob_thug:2-7,GobArbaletier:1-4;mincount:5;tags:Army
 - [GobArbaletier]({{ 'enemies/gobarbaletier.html' | relative_url }})
 
 
-## Gobourette the Gob's band
+## Goboulla the Gob's band
 ```
 GobArbaletier:3-8,Gob_thug:2-7;tags:Army
 ```
@@ -144,7 +145,7 @@ GobArbaletier:3-8,Gob_thug:2-7;tags:Army
 - [Gob_thug]({{ 'enemies/gobthug.html' | relative_url }})
 
 
-## Gobibet the Gob's band
+## Gobabet the Gob's band
 ```
 GobLancer:1-1,Gob_thug:3-14;tags:Army
 ```
@@ -155,7 +156,7 @@ GobLancer:1-1,Gob_thug:3-14;tags:Army
 - [Gob_thug]({{ 'enemies/gobthug.html' | relative_url }})
 
 
-## Goboubi the Gob's band
+## Gobillet the Gob's band
 ```
 GobArbaletier:3-8,Gob_thug:2-7;tags:Army
 ```
