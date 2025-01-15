@@ -12,9 +12,13 @@ toc:  false
 ![Joker_Master_Orcs]( {{ 'assets/generated/enemies/joker_master_orcs.jpg' | relative_url }} )
 - Rating: 1500
 - Race: Orc  Faction:Orcs
+
 ![MeleeScore]( {{ 'assets/fromgame/derived/meleescore.png' | relative_url }} ) | 104 | ![Damages_Multiplier]( {{ 'assets/fromgame/derived/damages_multiplier.png' | relative_url }} ) | 8-29 | ![range]( {{ 'assets/fromgame/icons/range.png' | relative_url }} ) | 3
+
+
 ![health]( {{ 'assets/fromgame/icons/health.png' | relative_url }} ) | 62 | ![essence]( {{ 'assets/fromgame/icons/essence.png' | relative_url }} ) | 62 | ![MeleeDefense]( {{ 'assets/fromgame/derived/meleedefense.png' | relative_url }} ) | 116 | ![armor]( {{ 'assets/fromgame/icons/armor.png' | relative_url }} ) | 16/21/20
-* Skills * : Sprint, Alchimechanics, Trap, Sadism + , TradeOfAllJacks + , Dodge ++ , Trollish ++ 
+
+* Skills: Sprint, Alchimechanics, Trap, Sadism + , TradeOfAllJacks + , Dodge ++ , Trollish ++ 
 
 ![Strength]( {{ 'assets/fromgame/stats/strength.png' | relative_url }} ) | ![Agility]( {{ 'assets/fromgame/stats/agility.png' | relative_url }} ) | ![Endurance]( {{ 'assets/fromgame/stats/endurance.png' | relative_url }} ) | ![Perception]( {{ 'assets/fromgame/stats/perception.png' | relative_url }} ) | ![Magic]( {{ 'assets/fromgame/stats/magic.png' | relative_url }} ) | ![Speed]( {{ 'assets/fromgame/stats/speed.png' | relative_url }} )
 --- | --- | --- | --- | --- | ---
