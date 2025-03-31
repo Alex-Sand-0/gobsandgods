@@ -1,0 +1,50 @@
+---
+layout: default
+title:  Truc
+author: Alex
+tags:
+- Rules
+- gameplay details
+---                               
+
+<h1>Gobs and Gods: Gameplay Details</h1>
+
+{% include gamedetailsindex.html %}
+
+
+<h2 id="rules">Rules</h2>
+<ul>
+  {% for item in site.gamerules %}
+    <li>
+      <a href="{{ item.url }}">{{ item.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<h2 id="skills">Skills</h2>
+<ul>
+  {% for item in site.skills %}
+    <li>
+      <a href="{{ item.url }}">{{ item.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<h2 id="stats">Stats</h2>
+<ul>
+  {% for item in site.stats %}
+    <li>
+      <a href="{{ item.url }}">{{ item.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<h2 id="derivedstats">Derived Stats</h2>
+<ul>
+  {% for item in site.derivedstats %}
+    <li>
+      <a href="{{ item.url }}">{{ item.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+

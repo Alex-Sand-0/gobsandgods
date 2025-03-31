@@ -83,4 +83,36 @@ collections:
   gamerules:
     output: true
     permalink: "/gamerules/:name:output_ext"
+  stats:
+    output: true
+    permalink: "/stats/:name:output_ext"
+  derivedstats:
+    output: true
+    permalink: "/derivedstats/:name:output_ext"
+  skills:
+    output: true
+    permalink: "/skills/:name:output_ext"
+
+defaults:
+  - scope:
+      path: ""
+      type: "gamerules"
+    values:
+      layout: "gameruleslayout"
+  - scope:
+      path: ""
+      type: "stats"
+    values:
+      layout: "stats"
+  - scope:
+      path: ""
+      type: "derivedstats"
+    values:
+      layout: "stats"
+  - scope:
+      path: ""
+      type: "skills"
+    values:
+      layout: "skills"
+
 
