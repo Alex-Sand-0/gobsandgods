@@ -80,3 +80,7 @@ collections:
   enemies:
     output: true
     permalink: "/enemies/:name:output_ext"
+  gamerules:
+    output: true
+    permalink: "/gamerules/:name:output_ext"
+
