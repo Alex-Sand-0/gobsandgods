@@ -92,6 +92,9 @@ collections:
   skills:
     output: true
     permalink: "/skills/:name:output_ext"
+  keywords:
+    output: true
+    permalink: "/keywords/:name:output_ext"
 
 defaults:
   - scope:
@@ -114,5 +117,10 @@ defaults:
       type: "skills"
     values:
       layout: "skills"
+  - scope:
+      path: ""
+      type: "keywords"
+    values:
+      layout: "keywords"
 
 
